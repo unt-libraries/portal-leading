@@ -1,0 +1,93 @@
+{
+  "path": "https://raw.githubusercontent.com/unt-libraries/portal-leading/main/data/TX_Newspaper-Titles/TX_Newspaper-Titles.csv",
+  "name": "tx_newspaper-titles",
+  "profile": "tabular-data-resource",
+  "scheme": "https",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8",
+  "schema": {
+    "fields": [
+      {
+        "name": "title",
+        "type": "string",
+        "title": "Newspaper Title",
+        "description": "Titles of newspapers as documented by Chronicaling America"
+      },
+      {
+        "name": "lccn",
+        "type": "string",
+        "title": "LCCN",
+        "description": "Library of Congress Control Number"
+      },
+      {
+        "name": "start_year",
+        "type": "integer",
+        "title": "Start Year",
+        "description": "Year of first publication"
+      },
+      {
+        "name": "end_year",
+        "type": "integer",
+        "title": "End Year",
+        "description": "Year of last publication"
+      },
+      {
+        "name": "frequency",
+        "type": "string",
+        "title": "Frequency of Publication - Original",
+        "description": "Frequency of publication as originally documented by Chronicaling America"
+      },
+      {
+        "name": "frequency_normalized",
+        "type": "string",
+        "title": "Frequency of Publication - Normalized",
+        "description": "Frequency of publication manually noramlized to include only primary headings (e.g., daily, weekly)",
+        "constraints": {
+          "enum": [
+            "Daily",
+            "Semiweekly",
+            "Weekly",
+            "Semimonthly",
+            "Monthly",
+            "Bimonthly",
+            "Quarterly",
+            "Annual",
+            "Irregular",
+            "Missing"
+          ]
+        }
+      },
+      {
+        "name": "language",
+        "type": "string",
+        "title": "Language of Publciation",
+        "description": "Language or languages of publication as originally documented by Chronicaling America"
+      },
+      {
+        "name": "county",
+        "type": "string",
+        "title": "Distribution County or Counties",
+        "description": "The Texas county or counties in which each newspaper distributes publications - extracted via excel from original 'place' variable"
+      },
+      {
+        "name": "place",
+        "type": "string",
+        "title": "Place - Original",
+        "description": "Place(s)where newspapers are published as originally documented by Chronicaling America"
+      },
+      {
+        "name": "place_of_publication",
+        "type": "string",
+        "title": "Place of Publication"
+      }
+    ],
+    "missingValues": [
+      "",
+      "1000",
+      "9999",
+      "Missing"
+    ]
+  },
+  "description": "The titles, lccn, years of activity, frequency and place of distribution, and place of publication of Texas nespapers throughout history as documented by Chronicling America https://chroniclingamerica.loc.gov/"
+}
