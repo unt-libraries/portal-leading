@@ -1,0 +1,64 @@
+{
+  "path": "https://raw.githubusercontent.com/unt-libraries/portal-leading/main/data/TX-County_Identifier/TX-County_Identifiers.csv",
+  "name": "tx-county_identifiers",
+  "profile": "tabular-data-resource",
+  "scheme": "https",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8",
+  "schema": {
+    "fields": [
+      {
+        "name": "County Name",
+        "type": "string",
+        "title": "County Name",
+        "description": "Name of all Counties in Texas, n=254"
+      },
+      {
+        "name": "FIPS Code - State",
+        "type": "integer",
+        "title": "FIPS Code - State",
+        "description": "Federal Information Processing Statndards (FIPS) code for the State of Texas",
+        "constraints": {
+          "enum": [
+            "48"
+          ]
+        }
+      },
+      {
+        "name": "FIPS Code - County",
+        "type": "integer",
+        "title": "FIPS Code - County",
+        "description": "Federal Information Processing Statndards (FIPS) code for Texas Counties"
+      },
+      {
+        "name": "geonames ID",
+        "type": "integer",
+        "title": "geonames ID",
+        "description": "Geonames Identifier as documented by https://www.geonames.org/"
+      },
+      {
+        "name": "wikidata ID",
+        "type": "string",
+        "title": "wikidata ID",
+        "description": "Wikidata Identifier as documented by https://www.wikidata.org/Wikidata:Identifiers"
+      },
+      {
+        "name": "UNTL County String",
+        "type": "string",
+        "title": "UNTL County String",
+        "description": "University of North Texas Library (UNTL) County String Identifier, formatted as '[County Name], TX'"
+      },
+      {
+        "name": "UNTL Place Name String",
+        "type": "string",
+        "title": "UNTL Place Name String",
+        "description": "University of North Texas Library (UNTL) Place Name String Identifier, formatted as 'United States - Texas - [County Name]'"
+      }
+    ],
+    "missingValues": [
+      ""
+    ]
+  },
+  "description": "The FIPS Code, geonames, and wikidata identifiers, and string formats used by the University of North Texas Libraries for all 254 Counties in Texaas. Data was manually gathered from several open online repositiories identified in the descriptions of applicable variables / columns."
+}
