@@ -6,7 +6,7 @@ Changes coincide with 10.18.2021 reorganization of GitHub repository
 Formatted_TX_County >> 	*removed from repository - outdated version*
 Formatted_TX_County-edited >> TX-County_Population
 Texas Library List >> TX_Libraries
-texas_dp >> TX-HPD_Items
+texas_dp >> TX-History-Photographic-Dataset_Items
 Texas_NewspaperTitleList_final >> TX_Newspaper-Titles
-texas_np >> TX-DNP_Issues
+texas_np >> TX-Digital-Newspaper-Program_Issues
 TexasCounty_IDList >> TX-County_Identifiers
