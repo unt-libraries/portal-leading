@@ -1,0 +1,33 @@
+{
+  "path": "https://raw.githubusercontent.com/unt-libraries/portal-leading/main/data/TX-County_Population/TX-County_Population.csv",
+  "name": "tx-county_population",
+  "profile": "tabular-data-resource",
+  "scheme": "https",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8",
+  "schema": {
+    "fields": [
+      {
+        "name": "County",
+        "type": "string",
+        "title": "County",
+        "description": "Texas county name"
+      },
+      {
+        "name": "Year",
+        "type": "integer",
+        "title": "Year",
+        "description": "Year"
+      },
+      {
+        "name": "Population",
+        "type": "string"
+      }
+    ],
+    "missingValues": [
+      ""
+    ]
+  },
+  "description": "This dataset contains the populations of each TX county during specific timepoints by year"
+}
