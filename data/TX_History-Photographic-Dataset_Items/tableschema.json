@@ -1,0 +1,52 @@
+{
+  "path": "https://raw.githubusercontent.com/unt-libraries/portal-leading/main/data/TX_History-Photographic-Dataset_Items/TX-History-Photographic-Dataset_Items.csv",
+  "name": "tx-history-photographic-dataset_items",
+  "profile": "tabular-data-resource",
+  "scheme": "https",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8",
+  "schema": {
+    "fields": [
+      {
+        "name": "County",
+        "type": "string",
+        "title": "County",
+        "description": "Texas county name"
+      },
+      {
+        "name": "state",
+        "type": "string",
+        "title": "State, Texas",
+        "description": "Indicator for State - this dataset is only relevant to Texas",
+        "constraints": {
+          "enum": [
+            "TX"
+          ]
+        }
+      },
+      {
+        "name": "year_start",
+        "type": "integer",
+        "title": "Start Year",
+        "description": "Year indicating the beginning of each decade for the corresponding count of items in the relevant county"
+      },
+      {
+        "name": "year-end",
+        "type": "integer",
+        "title": "End Year",
+        "description": "Year indicating the end of each decade for the corresponding count of items in the relevant county"
+      },
+      {
+        "name": "count",
+        "type": "integer",
+        "title": "Items Count",
+        "description": "Number of photographic items released in each county within the specified decade, regardless of source, according to the Texas History Photographic Dataset (THPD)"
+      }
+    ],
+    "missingValues": [
+      ""
+    ]
+  },
+  "description": "This dataset contains the number of photographic items released for each county within the decade specified by the start year and end year columns, regardless of source, according to the Texas History Photographic Dataset (THPD)"
+}
