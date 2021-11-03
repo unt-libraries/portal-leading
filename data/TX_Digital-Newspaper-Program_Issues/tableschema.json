@@ -1,0 +1,52 @@
+{
+  "path": "https://raw.githubusercontent.com/unt-libraries/portal-leading/main/data/TX_Digital-Newspaper-Program_Issues/TX_Digital-Newspaper-Program_Issues.csv",
+  "name": "tx_digital-newspaper-program_issues",
+  "profile": "tabular-data-resource",
+  "scheme": "https",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8-sig",
+  "schema": {
+    "fields": [
+      {
+        "name": "county",
+        "type": "string",
+        "title": "County",
+        "description": "Texas county name"
+      },
+      {
+        "name": "state",
+        "type": "string",
+        "title": "State, Texas",
+        "description": "Indicator for State - this dataset is only relevant to Texas",
+        "constraints": {
+          "enum": [
+            "TX"
+          ]
+        }
+      },
+      {
+        "name": "year_start",
+        "type": "integer",
+        "title": "Start Year",
+        "description": "Year indicating the beginning of each decade for the corresponding count of issues in the relevant county"
+      },
+      {
+        "name": "year-end",
+        "type": "integer",
+        "title": "End Year",
+        "description": "Year indicating the end of each decade for the corresponding count of issues in the relevant county"
+      },
+      {
+        "name": "count",
+        "type": "integer",
+        "title": "Issues Count",
+        "description": "Number of newspaper issues released for each county within the specified decade, regardless of title, according to the Texas Digital Newspaper Program (TDNP)"
+      }
+    ],
+    "missingValues": [
+      ""
+    ]
+  },
+  "description": "This dataset contains the number of newspaper issues released for each county within the decade specified by the start year and end year columns, regardless of title, according to the Texas Digital Newspaper Program (TDNP) "
+}
