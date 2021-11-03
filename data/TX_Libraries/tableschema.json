@@ -1,0 +1,73 @@
+{
+  "path": "https://raw.githubusercontent.com/unt-libraries/portal-leading/main/data/TX_Libraries/TX-County_Libraries.csv",
+  "name": "tx-county_libraries",
+  "profile": "tabular-data-resource",
+  "scheme": "https",
+  "format": "csv",
+  "hashing": "md5",
+  "encoding": "utf-8",
+  "schema": {
+    "fields": [
+      {
+        "name": "County",
+        "type": "string",
+        "title": "County",
+        "description": "Texas county name"
+      },
+      {
+        "name": "Library Name",
+        "type": "string",
+        "title": "Library Name",
+        "description": "Name of libraries in Texas"
+      },
+      {
+        "name": "Population of the Legal Service Area",
+        "type": "string",
+        "title": "Population of the Legal Service Area",
+        "description": "Population of the legal service area associated with the relevant library and county"
+      },
+      {
+        "name": "Legal Establishment",
+        "type": "string",
+        "title": "Legal Establishment",
+        "description": "Legal establishment category (e.g., city, county, non-profit)",
+        "constraints": {
+          "enum": [
+            "Non-Profit",
+            "City",
+            "County",
+            "Library District",
+            "City-County",
+            "Multi-jurisdictional",
+            "Non-profit",
+            "Other"
+          ]
+        }
+      },
+      {
+        "name": "Region",
+        "type": "string",
+        "title": "Region",
+        "description": "Texas region relevant to the library and county",
+        "constraints": {
+          "enum": [
+            "Alamo Area Region",
+            "Big Country Region",
+            "Central Texas Region",
+            "Houston Area Region",
+            "North Texas Region",
+            "Northeast Texas Region",
+            "South Texas Region",
+            "Texas Panhandle Region",
+            "Texas Trans-Pecos Region",
+            "West Texas Region"
+          ]
+        }
+      }
+    ],
+    "missingValues": [
+      ""
+    ]
+  },
+  "description": "This dataset contains the title, population of service area, legal establishment type, county, and region of libraries in Texas"
+}
