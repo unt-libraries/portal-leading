@@ -19,7 +19,7 @@ request_url = [
     'facet.limit=-1',
     'facet.mincount=1',
     'wt=json',
-    'rows=1'
+    'rows=0'
     ]
 
 # print('&'.join(request_url))
