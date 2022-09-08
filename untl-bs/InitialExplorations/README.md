@@ -1,1 +1,7 @@
-What are these?
+The "Initial Explorations" spreadsheets contain some of Hannah J.'s first examinations of the UNTL-BS data. The data was generated and exported using edit.texashistory.unt.edu, and manipulated in Excel.
+
+The two "Spread vs. Usage" files compare the number of occurrences of UNTL-BS terms with the number of narrower terms they contain. Each file conducts this analysis at a different level: "Spreadvs.Usage" treats the 14 main UNTL-BS categories, while "Spreadvs.Usage(level2) treats the first layer of narrower terms as they fit within their main category.
+
+"Top vs. Bottom" contains 1) a list of the 100 most-used and 2) the 104 least-used UNTL-BS terms, 3) a comparison of how the 14 main UNTL-BS categories are represented in those two lists, and 4) a comparison of the occurrence counts of the top 100 UNTL-BS terms and the top 100 custom keywords.
+
+"CollocatedKeywordsSample" examines 5 of the most frequently-used UNTL-BS terms. Each term's top 50 most collocated keywords are displayed, and compared with the counts for each collection that the records are coming from. Instances where the number of collocations with a particular keyword and the number of items from a particular collection match exactly are highlighted as indications of a trend: namely, that UNTL-BS terms tend to have high collocation rates with certain keywords because both the browse term and the keyword have been added to all (or nearly all) of the same records within a single collection. This file also notes the number of keywords that collocate with the browse term only once.
