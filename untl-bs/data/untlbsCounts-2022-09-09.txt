@@ -1,0 +1,1077 @@
+untlbsTerm	occurrenceCount
+Agriculture	2618
+Agriculture - Domestic Animals	5996
+Agriculture - Domestic Animals - Cattle	4459
+Agriculture - Domestic Animals - Donkeys	131
+Agriculture - Domestic Animals - Goats	149
+Agriculture - Domestic Animals - Horses	4364
+Agriculture - Domestic Animals - Horses - Tack	489
+Agriculture - Domestic Animals - Mules	400
+Agriculture - Domestic Animals - Poultry	719
+Agriculture - Domestic Animals - Poultry - Turkeys	154
+Agriculture - Domestic Animals - Sheep	252
+Agriculture - Domestic Animals - Swine	262
+Agriculture - Farm Equipment	2067
+Agriculture - Farm Equipment - Irrigation	153
+Agriculture - Farm Equipment - Plows	689
+Agriculture - Farm Equipment - Scythes	48
+Agriculture - Farm Equipment - Threshers	107
+Agriculture - Farm Equipment - Tractors	538
+Agriculture - Farming	2769
+Agriculture - Farming - Aquaculture	87
+Agriculture - Farming - Beets	127
+Agriculture - Farming - Citrus and Fruit	843
+Agriculture - Farming - Corn	429
+Agriculture - Farming - Cotton	1970
+Agriculture - Farming - Dairy	337
+Agriculture - Farming - Hay	278
+Agriculture - Farming - Peanuts	52
+Agriculture - Farming - Pecans	81
+Agriculture - Farming - Potatoes	55
+Agriculture - Farming - Rice	85
+Agriculture - Farming - Sorghum	166
+Agriculture - Farming - Soybeans	28
+Agriculture - Farming - Sugarcane	693
+Agriculture - Farming - Vegetables	319
+Agriculture - Farming - Wheat	383
+Agriculture - Processing and Storage	742
+Agriculture - Processing and Storage - Barns	281
+Agriculture - Processing and Storage - Cotton Gins	504
+Agriculture - Processing and Storage - Grain Elevators	163
+Agriculture - Processing and Storage - Meat Packing	173
+Agriculture - Ranching	966
+Agriculture - Ranching - Barbed Wire	317
+Agriculture - Ranching - Cattle Brands	207
+Agriculture - Ranching - Cattle Trails	84
+Agriculture - Ranching - Cowboys	1990
+Agriculture - Ranching - Ranches	1742
+Agriculture - Stock Tanks	56
+Architecture	7855
+Architecture - Buildings	115444
+Architecture - Civil Works	793
+Architecture - Civil Works - Bridges	1765
+Architecture - Civil Works - Locks and Dams	587
+Architecture - Civil Works - Locks and Dams - Dams	678
+Architecture - Civil Works - Streets and Roads	10622
+Architecture - Construction	8417
+Architecture - Landmarks	1179
+Architecture - Landmarks - Alamo	217
+Architecture - Landmarks - Historic Markers	2791
+Architecture - Landmarks - Texas State Capitol	556
+Architecture - Libraries	2283
+Architecture - Monuments	1068
+Architecture - Museums	2226
+Arts and Crafts	14088
+Arts and Crafts - Crafts	595
+Arts and Crafts - Crafts - Fiber Arts	289
+Arts and Crafts - Crafts - Fiber Arts - Knitting	26
+Arts and Crafts - Crafts - Fiber Arts - Sewing	1403
+Arts and Crafts - Crafts - Fiber Arts - Spinning	39
+Arts and Crafts - Crafts - Fiber Arts - Weaving	126
+Arts and Crafts - Crafts - Jewelry	767
+Arts and Crafts - Crafts - Metalwork	200
+Arts and Crafts - Crafts - Pottery	153
+Arts and Crafts - Crafts - Stained Glass	93
+Arts and Crafts - Crafts - Wood Carving	303
+Arts and Crafts - Dance	13502
+Arts and Crafts - Drawings	2073
+Arts and Crafts - Music	67422
+Arts and Crafts - Music - Bands	4662
+Arts and Crafts - Music - Choirs	1733
+Arts and Crafts - Music - Instruments	3961
+Arts and Crafts - Music - Marching Bands	1233
+Arts and Crafts - Music - Orchestras	1091
+Arts and Crafts - Paintings	2101
+Arts and Crafts - Paintings - Murals	285
+Arts and Crafts - Sculptures	1972
+Arts and Crafts - Theatre	21109
+Arts and Crafts - Theatre - Motion Pictures	6742
+"Business, Economics and Finance"	14042
+"Business, Economics and Finance - Advertising"	853926
+"Business, Economics and Finance - Commercial Fishing"	147
+"Business, Economics and Finance - Communications"	1325
+"Business, Economics and Finance - Communications - Media"	244204
+"Business, Economics and Finance - Communications - Newspapers"	858901
+"Business, Economics and Finance - Communications - Telephones"	2127
+"Business, Economics and Finance - Electricity"	841
+"Business, Economics and Finance - Electricity - Companies"	391
+"Business, Economics and Finance - Electricity - Power Plants"	556
+"Business, Economics and Finance - Factories"	1099
+"Business, Economics and Finance - Factories - Foundries"	99
+"Business, Economics and Finance - Finance"	8254
+"Business, Economics and Finance - Finance - Banks"	5338
+"Business, Economics and Finance - Hotels"	4212
+"Business, Economics and Finance - Insurance"	1900
+"Business, Economics and Finance - Journalism"	848333
+"Business, Economics and Finance - Logging"	310
+"Business, Economics and Finance - Medicine"	6130
+"Business, Economics and Finance - Medicine - Dentists"	353
+"Business, Economics and Finance - Medicine - Doctors"	4019
+"Business, Economics and Finance - Medicine - Hospitals"	6647
+"Business, Economics and Finance - Medicine - Nurses"	1201
+"Business, Economics and Finance - Medicine - Nursing Homes"	283
+"Business, Economics and Finance - Medicine - Red Cross"	414
+"Business, Economics and Finance - Mining"	404
+"Business, Economics and Finance - Motels"	241
+"Business, Economics and Finance - Oil and Gas"	3444
+"Business, Economics and Finance - Oil and Gas - Companies"	1230
+"Business, Economics and Finance - Oil and Gas - Companies - Exxon"	1
+"Business, Economics and Finance - Oil and Gas - Companies - Gulf Oil"	141
+"Business, Economics and Finance - Oil and Gas - Companies - Humble Oil"	1556
+"Business, Economics and Finance - Oil and Gas - Companies - Lone Star Gas"	275
+"Business, Economics and Finance - Oil and Gas - Companies - Phillips 66"	20
+"Business, Economics and Finance - Oil and Gas - Companies - Shell Oil"	136
+"Business, Economics and Finance - Oil and Gas - Companies - Texas Company (Texaco)"	142
+"Business, Economics and Finance - Oil and Gas - Gas Wells"	144
+"Business, Economics and Finance - Oil and Gas - Oil Fields"	251
+"Business, Economics and Finance - Oil and Gas - Oil Fields - Ranger Oil Field"	3
+"Business, Economics and Finance - Oil and Gas - Oil Fields - Spindletop"	31
+"Business, Economics and Finance - Oil and Gas - Oil Wells"	657
+"Business, Economics and Finance - Oil and Gas - Refineries"	1972
+"Business, Economics and Finance - Oil and Gas - Stations"	1130
+"Business, Economics and Finance - Real Estate"	2260
+"Business, Economics and Finance - Restaurants"	2106
+"Business, Economics and Finance - Saloons, Bars, Taverns"	959
+"Business, Economics and Finance - Service Industries"	691
+"Business, Economics and Finance - Service Industries - Barbers"	256
+"Business, Economics and Finance - Service Industries - Funeral Homes"	295
+"Business, Economics and Finance - Service Industries - Liveries"	13
+"Business, Economics and Finance - Service Industries - Photography"	8077
+"Business, Economics and Finance - Service Industries - Printing"	265
+"Business, Economics and Finance - Service Industries - Tailors"	33
+"Business, Economics and Finance - Shipping"	421
+"Business, Economics and Finance - Shipping - Wharves"	148
+"Business, Economics and Finance - Stores"	5327
+"Business, Economics and Finance - Stores - Appliance Stores"	128
+"Business, Economics and Finance - Stores - Bakeries"	193
+"Business, Economics and Finance - Stores - Clothing Stores"	644
+"Business, Economics and Finance - Stores - Department Stores"	1101
+"Business, Economics and Finance - Stores - Farmers' Markets"	276
+"Business, Economics and Finance - Stores - Furniture Stores"	282
+"Business, Economics and Finance - Stores - General Stores"	440
+"Business, Economics and Finance - Stores - Grocery Stores"	1860
+"Business, Economics and Finance - Stores - Hardware Stores"	181
+"Business, Economics and Finance - Stores - Jewelry Stores"	309
+"Business, Economics and Finance - Stores - Lumber Yards"	179
+"Business, Economics and Finance - Stores - Meat Markets"	208
+"Business, Economics and Finance - Stores - Pharmacies"	479
+"Business, Economics and Finance - Theatres"	1030
+"Business, Economics and Finance - Tourism"	1807
+"Business, Economics and Finance - Transportation"	4658
+"Business, Economics and Finance - Transportation - Accidents"	7396
+"Business, Economics and Finance - Transportation - Animal-Drawn Vehicles"	476
+"Business, Economics and Finance - Transportation - Automobiles"	19647
+"Business, Economics and Finance - Transportation - Aviation"	5246
+"Business, Economics and Finance - Transportation - Aviation - Airplanes"	8722
+"Business, Economics and Finance - Transportation - Aviation - Helicopters"	2688
+"Business, Economics and Finance - Transportation - Boats"	2085
+"Business, Economics and Finance - Transportation - Buses"	2470
+"Business, Economics and Finance - Transportation - Horse-Drawn Vehicles"	1826
+"Business, Economics and Finance - Transportation - Motorcycles"	657
+"Business, Economics and Finance - Transportation - Railroads"	6216
+"Business, Economics and Finance - Transportation - Railroads - Depots"	931
+"Business, Economics and Finance - Transportation - Railroads - Trains"	4037
+"Business, Economics and Finance - Transportation - Ships"	997
+"Business, Economics and Finance - Transportation - Trolleys"	199
+"Business, Economics and Finance - Transportation - Trucks"	2292
+"Business, Economics and Finance - Transportation - Trucks - Commercial"	913
+Education	5967
+Education - Alumni	2030
+Education - Colleges and Universities	10626
+Education - Colleges and Universities - Abilene Christian University	2092
+Education - Colleges and Universities - Austin College	83
+Education - Colleges and Universities - Baylor University	477
+Education - Colleges and Universities - Bishop College	138
+Education - Colleges and Universities - Brookhaven College	12
+Education - Colleges and Universities - Cedar Valley College	22
+Education - Colleges and Universities - Clarendon College	15
+Education - Colleges and Universities - Concordia University Texas	892
+Education - Colleges and Universities - Eastfield College	40
+Education - Colleges and Universities - El Centro College	45
+Education - Colleges and Universities - Faculty and Staff	32131
+Education - Colleges and Universities - Hardin-Simmons University	3338
+Education - Colleges and Universities - Howard Payne University	303
+Education - Colleges and Universities - Lamar University	2014
+Education - Colleges and Universities - Lee College	1254
+Education - Colleges and Universities - McMurry University	2258
+Education - Colleges and Universities - Mountain View College	35
+Education - Colleges and Universities - North Lake College	45
+Education - Colleges and Universities - Palo Alto College	53
+Education - Colleges and Universities - Panola College	447
+Education - Colleges and Universities - Rice University	3158
+Education - Colleges and Universities - Richland College	41
+Education - Colleges and Universities - San Antonio College	1676
+Education - Colleges and Universities - Schreiner University	525
+Education - Colleges and Universities - South Plains College	134
+Education - Colleges and Universities - Southern Methodist University	1841
+Education - Colleges and Universities - Southwestern Christian College	5
+Education - Colleges and Universities - Southwestern University	152
+Education - Colleges and Universities - St. Edward's University	444
+Education - Colleges and Universities - St. Mary's University	1
+Education - Colleges and Universities - St. Philip's College	829
+Education - Colleges and Universities - Tarleton State University	2840
+Education - Colleges and Universities - Tarrant County College	960
+Education - Colleges and Universities - Temple College	341
+Education - Colleges and Universities - Texas A&M University	864
+Education - Colleges and Universities - Texas Christian University	1816
+Education - Colleges and Universities - Texas Lutheran University	785
+Education - Colleges and Universities - Texas State University	643
+Education - Colleges and Universities - Texas Tech University	317
+Education - Colleges and Universities - Texas Wesleyan University	2251
+Education - Colleges and Universities - Texas Woman's University	152
+Education - Colleges and Universities - University of Dallas	981
+Education - Colleges and Universities - University of North Texas	52147
+Education - Colleges and Universities - University of Texas	1953
+Education - Colleges and Universities - University of Texas at Arlington	541
+Education - Colleges and Universities - West Texas A&M University	263
+Education - Colleges and Universities - Western Texas College	180
+Education - Commencement	1362
+Education - Diplomas	62
+Education - Events	6835
+Education - Events - Homecoming	1714
+Education - Schools	8376
+Education - Schools - Buildings	8015
+Education - Schools - Cheerleaders	632
+Education - Schools - Classes	2620
+Education - Schools - Principals	328
+Education - Schools - Students	49344
+Education - Schools - Teachers	4673
+Education - Textbooks	467
+Education - Yearbooks	1610
+Government and Law	11873
+Government and Law - City Charters	116
+Government and Law - City Halls	1877
+Government and Law - Civil Servants	1771
+Government and Law - Civil Servants - Civilian Conservation Corps	75
+Government and Law - Civil Servants - Firefighters	8385
+Government and Law - Civil Servants - Postal Service	1409
+Government and Law - Constitutions	284
+Government and Law - County Courthouses	9309
+Government and Law - County Records	1329
+Government and Law - Court Dockets	269
+Government and Law - Court Reports	1342
+Government and Law - Elected Officials	6482
+Government and Law - Elected Officials - Attorneys General	21475
+Government and Law - Elected Officials - Congress	2111
+Government and Law - Elected Officials - County Judges	3264
+Government and Law - Elected Officials - Governors	4506
+Government and Law - Elected Officials - Mayors	3029
+Government and Law - Elected Officials - Presidents	7718
+Government and Law - Elected Officials - Representatives	12475
+Government and Law - Elected Officials - Senators	5767
+Government and Law - Elected Officials - Supreme Court Judges	933
+Government and Law - Elected Officials - Vice Presidents	1097
+Government and Law - Federal Courthouses	839
+Government and Law - Law Enforcement	1777
+Government and Law - Law Enforcement - Constables	55
+Government and Law - Law Enforcement - Investigations	12513
+Government and Law - Law Enforcement - Jails and Prisons	5752
+Government and Law - Law Enforcement - Police	20125
+Government and Law - Law Enforcement - Sheriffs	1735
+Government and Law - Law Enforcement - Texas Rangers	268
+Government and Law - Legal Documents	2748
+Government and Law - Legal Documents - Deeds	915
+Government and Law - Legal Documents - Divorces	215
+Government and Law - Legal Documents - Land Grants	228
+Government and Law - Legal Documents - Probate	3189
+Government and Law - Legislative Committees	2207
+Government and Law - Money	12796
+Government and Law - Money - Coins	278
+Government and Law - Money - Paper Money	2865
+Government and Law - Politics	10282
+Government and Law - Politics - Commentaries	1078
+Government and Law - Politics - Speeches	4606
+Government and Law - State Agencies	5926
+Government and Law - State Capitols	161
+Government and Law - Taxes	6007
+Government and Law - Texas Laws and Regulations	32840
+Government and Law - Vital Records	131
+Government and Law - Vital Records - Births	328
+Government and Law - Vital Records - Deaths	9905
+Government and Law - Vital Records - Marriages	610
+Immigration	855
+Immigration - Colonies	556
+Landscape and Nature	3511
+Landscape and Nature - Aerials	4098
+Landscape and Nature - Archaeology	505
+Landscape and Nature - Beaches	607
+Landscape and Nature - Canyons	195
+Landscape and Nature - Deserts	500
+Landscape and Nature - Forests	1173
+Landscape and Nature - Fossils	95
+Landscape and Nature - Geography and Maps	85334
+Landscape and Nature - Mountains	1681
+Landscape and Nature - Natural Disasters	216
+Landscape and Nature - Natural Disasters - Dust Storms	43
+Landscape and Nature - Natural Disasters - Earthquakes	265
+Landscape and Nature - Natural Disasters - Fires	6750
+Landscape and Nature - Natural Disasters - Floods	2124
+Landscape and Nature - Natural Disasters - Hurricanes	610
+Landscape and Nature - Natural Disasters - Storms	977
+Landscape and Nature - Natural Disasters - Tornadoes	1004
+Landscape and Nature - Plants	3804
+Landscape and Nature - State and National Parks	2322
+Landscape and Nature - Water	3794
+Landscape and Nature - Water - Bayous	34
+Landscape and Nature - Water - Canals	286
+Landscape and Nature - Water - Creeks	868
+Landscape and Nature - Water - Gulf of Mexico	332
+Landscape and Nature - Water - Lakes	2551
+Landscape and Nature - Water - Oceans and Seas	804
+Landscape and Nature - Water - Ponds	320
+Landscape and Nature - Water - Rivers	2865
+Landscape and Nature - Weather and Climate	5969
+Landscape and Nature - Wildlife	2066
+Literature	1641
+Literature - Children's	158
+Literature - Fiction	218
+Literature - Folklore	147
+Literature - Poetry	460
+Military and War	2285
+Military and War - Bases	4562
+Military and War - Camps	2094
+Military and War - Forts	522
+Military and War - Forts - Fort Hood	2257
+Military and War - Forts - Fort McIntosh	14
+Military and War - Forts - Fort Travis	16
+Military and War - Personnel	14185
+Military and War - Personnel - Veterans	4020
+Military and War - Presidios	50
+Military and War - Transportation	256
+Military and War - Transportation - Aviation	5280
+Military and War - Transportation - Land Vehicles	478
+Military and War - Transportation - Land Vehicles - Tanks	533
+Military and War - Transportation - Ships	4704
+Military and War - Uniforms and Insignia	2245
+Military and War - United States Armed Forces	1348
+Military and War - United States Armed Forces - United States Air Force	3775
+Military and War - United States Armed Forces - United States Army	9464
+Military and War - United States Armed Forces - United States Coast Guard	146
+Military and War - United States Armed Forces - United States Marine Corps	814
+Military and War - United States Armed Forces - United States Navy	2267
+Military and War - Wars	610
+Military and War - Wars - Civil War	2412
+Military and War - Wars - Cold War	224
+Military and War - Wars - Korean War	325
+Military and War - Wars - Mexican Revolution	1050
+Military and War - Wars - Mexican War	398
+Military and War - Wars - Spanish American War	27
+Military and War - Wars - Texas Revolution	327
+Military and War - Wars - Vietnam War	4859
+Military and War - Wars - World War I	923
+Military and War - Wars - World War II	16337
+Military and War - Weapons	1903
+Military and War - Weapons - Cannons	189
+People	20789
+People - Children	19311
+People - Ethnic Groups	1203
+People - Ethnic Groups - African Americans	30293
+People - Ethnic Groups - American Indians	1641
+People - Ethnic Groups - American Indians - Alabamas	61
+People - Ethnic Groups - American Indians - Apaches	32
+People - Ethnic Groups - American Indians - Atakapans	8
+People - Ethnic Groups - American Indians - Caddos	22
+People - Ethnic Groups - American Indians - Cherokees	66
+People - Ethnic Groups - American Indians - Cheyenne	4
+People - Ethnic Groups - American Indians - Chickasaws	4
+People - Ethnic Groups - American Indians - Choctaws	17
+People - Ethnic Groups - American Indians - Coahuiltecans	3
+People - Ethnic Groups - American Indians - Comanches	154
+People - Ethnic Groups - American Indians - Coushattas	98
+People - Ethnic Groups - American Indians - Creeks	2
+People - Ethnic Groups - American Indians - Deadose	1
+People - Ethnic Groups - American Indians - Delawares	2
+People - Ethnic Groups - American Indians - Jumanos	5
+People - Ethnic Groups - American Indians - Karankawas	17
+People - Ethnic Groups - American Indians - Kickapoos	7
+People - Ethnic Groups - American Indians - Kiowas	37
+People - Ethnic Groups - American Indians - Osage	5
+People - Ethnic Groups - American Indians - Otoe	1
+People - Ethnic Groups - American Indians - Pawnees	2
+People - Ethnic Groups - American Indians - Shawnees	13
+People - Ethnic Groups - American Indians - Sioux	57
+People - Ethnic Groups - American Indians - Tiguex	10
+People - Ethnic Groups - American Indians - Tonkawas	7
+People - Ethnic Groups - American Indians - Wichitas	9
+People - Ethnic Groups - Chinese	332
+People - Ethnic Groups - Czechs	6987
+People - Ethnic Groups - English	84
+People - Ethnic Groups - French	75
+People - Ethnic Groups - Germans	4749
+People - Ethnic Groups - Hispanics	12208
+People - Ethnic Groups - Indians	60
+People - Ethnic Groups - Irish	96
+People - Ethnic Groups - Italians	71
+People - Ethnic Groups - Japanese	208
+People - Ethnic Groups - Jews	160
+People - Ethnic Groups - Koreans	102
+People - Ethnic Groups - Pakistanis	17
+People - Ethnic Groups - Poles	99
+People - Ethnic Groups - Russians	216
+People - Ethnic Groups - Spaniards	20
+People - Family Groups	4138
+People - Groups	22054
+People - Groups - Pioneers	273
+People - Human Remains	441
+People - Individuals	157430
+People - Individuals - Adina de Zavala	15
+People - Individuals - Anson Jones	5
+People - Individuals - Antonio Lopez de Santa Anna	59
+People - Individuals - David Crockett	8
+People - Individuals - Emily West	4
+People - Individuals - General Olinto Barsanti	4
+People - Individuals - Jane Long	11
+People - Individuals - La Salle	3
+People - Individuals - Lorenzo de Zavala	217
+People - Individuals - Mary Jones	207
+People - Individuals - Mirabeau Lamar	4
+People - Individuals - Robert E. Lee	8
+People - Individuals - Sam Houston	53
+People - Individuals - Sam Rayburn	45
+People - Individuals - Sarah T. Hughes	76
+People - Individuals - Stephen F. Austin	38
+Places	134
+Places - Africa	435
+Places - Asia	206
+Places - Canada	296
+Places - Canada - Alberta	16
+Places - Canada - British Columbia	42
+Places - Canada - Manitoba	8
+Places - Canada - New Brunswick	12
+Places - Canada - Newfoundland	11
+Places - Canada - Nova Scotia	14
+Places - Canada - Ontario	35
+Places - Canada - Prince Edward Island	5
+Places - Canada - Quebec	24
+Places - Canada - Saskatchewan	13
+Places - Central America	390
+Places - Cuba	146
+Places - Europe	325
+Places - France	56
+Places - France - Paris	25
+Places - Mexico	1433
+Places - Mexico - Chihuahua	44
+Places - Mexico - Chihuahua - Ciudad Juárez	113
+Places - Mexico - Coahuila	19
+Places - Mexico - Nuevo León	12
+Places - Mexico - Tamaulipas	10
+Places - Mexico - Tamaulipas - Matamoros	1477
+Places - Mexico - Texas	1372
+Places - North America	726
+Places - Oceania	188
+Places - Republic of Texas	229
+Places - South America	372
+Places - Spain	17
+Places - Spain - Mexico	5
+Places - Spain - Texas	625
+Places - United States	675
+Places - United States - Alabama	111
+Places - United States - Alaska	66
+Places - United States - Arizona	54
+Places - United States - Arkansas	175
+Places - United States - California	356
+Places - United States - Colorado	194
+Places - United States - Connecticut	21
+Places - United States - Delaware	18
+Places - United States - Florida	119
+Places - United States - Georgia	116
+Places - United States - Hawaii	50
+Places - United States - Idaho	35
+Places - United States - Illinois	198
+Places - United States - Indiana	101
+Places - United States - Iowa	128
+Places - United States - Kansas	95
+Places - United States - Kentucky	37
+Places - United States - Louisiana	525
+Places - United States - Maine	26
+Places - United States - Maryland	38
+Places - United States - Massachusetts	66
+Places - United States - Michigan	59
+Places - United States - Midwestern Region	57
+Places - United States - Minnesota	91
+Places - United States - Mississippi	50
+Places - United States - Missouri	129
+Places - United States - Montana	37
+Places - United States - Nebraska	70
+Places - United States - Nevada	48
+Places - United States - New Hampshire	15
+Places - United States - New Jersey	36
+Places - United States - New Mexico	556
+Places - United States - New Mexico - Luna County	6
+Places - United States - New Mexico - Luna County - Columbus	19
+Places - United States - New York	327
+Places - United States - North Carolina	90
+Places - United States - North Dakota	32
+Places - United States - Northeast Region	48
+Places - United States - Ohio	248
+Places - United States - Oklahoma	710
+Places - United States - Oklahoma - Beaver County	16
+Places - United States - Oklahoma - Beckham County	8
+Places - United States - Oklahoma - Bryan County	12
+Places - United States - Oklahoma - Carter County	2
+Places - United States - Oklahoma - Choctaw County	7
+Places - United States - Oklahoma - Comanche County	1
+Places - United States - Oklahoma - Cotton County	4
+Places - United States - Oklahoma - Ellis County	10
+Places - United States - Oklahoma - Harmon County	10
+Places - United States - Oklahoma - Jackson County	8
+Places - United States - Oklahoma - Jefferson County	8
+Places - United States - Oklahoma - Johnston County	1
+Places - United States - Oklahoma - Logan County	1
+Places - United States - Oklahoma - Love County	12
+Places - United States - Oklahoma - Marshall County	6
+Places - United States - Oklahoma - McCurtain County	16
+Places - United States - Oklahoma - Oklahoma County - Oklahoma City	397
+Places - United States - Oklahoma - Osage County	1
+Places - United States - Oklahoma - Payne County	1
+Places - United States - Oklahoma - Roger Mills County	8
+Places - United States - Oklahoma - Texas County	93
+Places - United States - Oklahoma - Tillman County	6
+Places - United States - Oklahoma - Tulsa County	4
+Places - United States - Oregon	113
+Places - United States - Pennsylvania	59
+Places - United States - Rhode Island	20
+Places - United States - South Carolina	53
+Places - United States - South Dakota	31
+Places - United States - Southern Region	38
+Places - United States - Tennessee	111
+Places - United States - Tennessee - Davidson County - Nashville	76
+Places - United States - Territories	7
+Places - United States - Territories - Indian Territory	3
+Places - United States - Territories - Oklahoma Territory	1
+Places - United States - Texas	20074
+Places - United States - Texas - Anderson County	1681
+Places - United States - Texas - Anderson County - Palestine	4561
+Places - United States - Texas - Andrews County	234
+Places - United States - Texas - Angelina County	396
+Places - United States - Texas - Angelina County - Lufkin	2383
+Places - United States - Texas - Aransas County	288
+Places - United States - Texas - Archer County	4421
+Places - United States - Texas - Armstrong County	169
+Places - United States - Texas - Armstrong County - Claude	1702
+Places - United States - Texas - Atascosa County	402
+Places - United States - Texas - Austin County	5024
+Places - United States - Texas - Bailey County	109
+Places - United States - Texas - Bandera County	1758
+Places - United States - Texas - Bastrop County	7865
+Places - United States - Texas - Bastrop County - Smithville	863
+Places - United States - Texas - Baylor County	1307
+Places - United States - Texas - Bee County	429
+Places - United States - Texas - Bell County	9759
+Places - United States - Texas - Bell County - Temple	2884
+Places - United States - Texas - Bexar County	13224
+Places - United States - Texas - Bexar County - San Antonio	23874
+Places - United States - Texas - Blanco County	433
+Places - United States - Texas - Borden County	118
+Places - United States - Texas - Bosque County	1083
+Places - United States - Texas - Bosque County - Clifton	5869
+Places - United States - Texas - Bosque County - Meridian	626
+Places - United States - Texas - Bosque County - Valley Mills	106
+Places - United States - Texas - Bowie County	753
+Places - United States - Texas - Brazoria County	6667
+Places - United States - Texas - Brazoria County - Brazoria	98
+Places - United States - Texas - Brazoria County - Columbia	41
+Places - United States - Texas - Brazos County	7573
+Places - United States - Texas - Brewster County	2175
+Places - United States - Texas - Briscoe County	154
+Places - United States - Texas - Brooks County	650
+Places - United States - Texas - Brown County	562
+Places - United States - Texas - Brown County - Brownwood	12935
+Places - United States - Texas - Burleson County	2789
+Places - United States - Texas - Burnet County	688
+Places - United States - Texas - Caldwell County	1625
+Places - United States - Texas - Calhoun County	340
+Places - United States - Texas - Calhoun County - Port Lavaca	1432
+Places - United States - Texas - Callahan County	420
+Places - United States - Texas - Cameron County	2735
+Places - United States - Texas - Cameron County - Brownsville	16818
+Places - United States - Texas - Camp County	159
+Places - United States - Texas - Carson County	2234
+Places - United States - Texas - Carson County - Panhandle	1590
+Places - United States - Texas - Cass County	2702
+Places - United States - Texas - Castro County	151
+Places - United States - Texas - Chambers County	745
+Places - United States - Texas - Cherokee County	4865
+Places - United States - Texas - Cherokee County - Jacksonville	273
+Places - United States - Texas - Cherokee County - Rusk	2977
+Places - United States - Texas - Childress County	300
+Places - United States - Texas - Clay County	422
+Places - United States - Texas - Clay County - Henrietta	156
+Places - United States - Texas - Cochran County	470
+Places - United States - Texas - Coke County	190
+Places - United States - Texas - Coleman County	6365
+Places - United States - Texas - Collin County	7757
+Places - United States - Texas - Collin County - McKinney	1802
+Places - United States - Texas - Collin County - Wylie	1567
+Places - United States - Texas - Collingsworth County	293
+Places - United States - Texas - Colorado County	1306
+Places - United States - Texas - Colorado County - Columbus	20
+Places - United States - Texas - Comal County	1453
+Places - United States - Texas - Comanche County	8168
+Places - United States - Texas - Concho County	187
+Places - United States - Texas - Cooke County	8485
+Places - United States - Texas - Coryell County	588
+Places - United States - Texas - Cottle County	3819
+Places - United States - Texas - Crane County	169
+Places - United States - Texas - Crockett County	938
+Places - United States - Texas - Crosby County	438
+Places - United States - Texas - Crosby County - Crosbyton	3244
+Places - United States - Texas - Culberson County	446
+Places - United States - Texas - Dallam County	256
+Places - United States - Texas - Dallas County	14212
+Places - United States - Texas - Dallas County - Carrollton	2515
+Places - United States - Texas - Dallas County - Dallas	11787
+Places - United States - Texas - Dallas County - Irving	949
+Places - United States - Texas - Dallas County - Mesquite	16
+Places - United States - Texas - Dawson County	160
+Places - United States - Texas - DeWitt County	21103
+Places - United States - Texas - Deaf Smith County	6275
+Places - United States - Texas - Deaf Smith County - Hereford	1099
+Places - United States - Texas - Delta County	5503
+Places - United States - Texas - Denton County	5791
+Places - United States - Texas - Denton County - Argyle	3
+Places - United States - Texas - Denton County - Aubrey	78
+Places - United States - Texas - Denton County - Denton	17151
+Places - United States - Texas - Denton County - Flower Mound	33
+Places - United States - Texas - Denton County - Lewisville	8
+Places - United States - Texas - Denton County - Little Elm	6
+Places - United States - Texas - Denton County - Pilot Point	909
+Places - United States - Texas - Denton County - Ponder	2
+Places - United States - Texas - Denton County - Roanoke	4
+Places - United States - Texas - Denton County - Sanger	2214
+Places - United States - Texas - Denton County - The Colony	66
+Places - United States - Texas - Dickens County	140
+Places - United States - Texas - Dimmit County	249
+Places - United States - Texas - Donley County	223
+Places - United States - Texas - Duval County	1288
+Places - United States - Texas - Eastland County	917
+Places - United States - Texas - Ector County	270
+Places - United States - Texas - Edwards County	1700
+Places - United States - Texas - El Paso County	6405
+Places - United States - Texas - El Paso County - El Paso	13031
+Places - United States - Texas - Ellis County	8676
+Places - United States - Texas - Ellis County - Ennis	3298
+Places - United States - Texas - Ellis County - Ferris	146
+Places - United States - Texas - Erath County	9157
+Places - United States - Texas - Erath County - Stephenville	4980
+Places - United States - Texas - Falls County	372
+Places - United States - Texas - Fannin County	10297
+Places - United States - Texas - Fannin County - Honey Grove	2404
+Places - United States - Texas - Fannin County - Leonard	1423
+Places - United States - Texas - Fayette County	9938
+Places - United States - Texas - Fayette County - La Grange	4479
+Places - United States - Texas - Fayette County - Schulenburg	784
+Places - United States - Texas - Fisher County	194
+Places - United States - Texas - Floyd County	221
+Places - United States - Texas - Foard County	166
+Places - United States - Texas - Fort Bend County	1998
+Places - United States - Texas - Fort Bend County - Richmond	52
+Places - United States - Texas - Fort Bend County - Rosenberg	99
+Places - United States - Texas - Franklin County	2220
+Places - United States - Texas - Freestone County	8100
+Places - United States - Texas - Frio County	731
+Places - United States - Texas - Gaines County	2272
+Places - United States - Texas - Gaines County - Seminole	1763
+Places - United States - Texas - Galveston County	6034
+Places - United States - Texas - Galveston County - Galveston	19178
+Places - United States - Texas - Galveston County - Hitchcock	21
+Places - United States - Texas - Galveston County - Texas City	367
+Places - United States - Texas - Garza County	189
+Places - United States - Texas - Gillespie County	4330
+Places - United States - Texas - Glasscock County	136
+Places - United States - Texas - Goliad County	1076
+Places - United States - Texas - Gonzales County	834
+Places - United States - Texas - Gray County	867
+Places - United States - Texas - Grayson County	19442
+Places - United States - Texas - Grayson County - Collinsville	10
+Places - United States - Texas - Gregg County	1910
+Places - United States - Texas - Grimes County	7311
+Places - United States - Texas - Guadalupe County	3658
+Places - United States - Texas - Hale County	335
+Places - United States - Texas - Hall County	235
+Places - United States - Texas - Hamilton County	263
+Places - United States - Texas - Hamilton County - Carlton	12
+Places - United States - Texas - Hansford County	215
+Places - United States - Texas - Hardeman County	270
+Places - United States - Texas - Hardin County	2974
+Places - United States - Texas - Harris County	36992
+Places - United States - Texas - Harris County - Houston	21893
+Places - United States - Texas - Harris County - La Porte	24
+Places - United States - Texas - Harrison County	1404
+Places - United States - Texas - Harrison County - Marshall	2378
+Places - United States - Texas - Hartley County	191
+Places - United States - Texas - Haskell County	4785
+Places - United States - Texas - Hays County	1475
+Places - United States - Texas - Hays County - San Marcos	1532
+Places - United States - Texas - Hemphill County	3297
+Places - United States - Texas - Hemphill County - Canadian	554
+Places - United States - Texas - Henderson County	644
+Places - United States - Texas - Hidalgo County	4398
+Places - United States - Texas - Hidalgo County - McAllen	1358
+Places - United States - Texas - Hill County	1210
+Places - United States - Texas - Hill County - Itasca	15
+Places - United States - Texas - Hockley County	5755
+Places - United States - Texas - Hood County	754
+Places - United States - Texas - Hopkins County	11461
+Places - United States - Texas - Houston County	590
+Places - United States - Texas - Houston County - Crockett	1
+Places - United States - Texas - Howard County	255
+Places - United States - Texas - Hudspeth County	2185
+Places - United States - Texas - Hunt County	2808
+Places - United States - Texas - Hunt County - Greenville	240
+Places - United States - Texas - Hutchinson County	3008
+Places - United States - Texas - Hutchinson County - Borger	445
+Places - United States - Texas - Hutchinson County - Whittenburg	1
+Places - United States - Texas - Irion County	164
+Places - United States - Texas - Jack County	279
+Places - United States - Texas - Jack County - Jacksboro	5662
+Places - United States - Texas - Jackson County	1627
+Places - United States - Texas - Jasper County	375
+Places - United States - Texas - Jasper County - Jasper	199
+Places - United States - Texas - Jeff Davis County	538
+Places - United States - Texas - Jeff Davis County - Fort Davis	143
+Places - United States - Texas - Jefferson County	3616
+Places - United States - Texas - Jefferson County - Beaumont	201
+Places - United States - Texas - Jefferson County - Port Arthur	585
+Places - United States - Texas - Jim Hogg County	963
+Places - United States - Texas - Jim Wells County	225
+Places - United States - Texas - Johnson County	9944
+Places - United States - Texas - Jones County	4822
+Places - United States - Texas - Karnes County	416
+Places - United States - Texas - Kaufman County	2144
+Places - United States - Texas - Kendall County	2593
+Places - United States - Texas - Kenedy County	260
+Places - United States - Texas - Kent County	157
+Places - United States - Texas - Kerr County	685
+Places - United States - Texas - Kimble County	563
+Places - United States - Texas - King County	139
+Places - United States - Texas - Kinney County	506
+Places - United States - Texas - Kleberg County	1289
+Places - United States - Texas - Knox County	284
+Places - United States - Texas - La Salle County	2675
+Places - United States - Texas - Lamar County	3150
+Places - United States - Texas - Lamb County	206
+Places - United States - Texas - Lampasas County	9420
+Places - United States - Texas - Lavaca County	5600
+Places - United States - Texas - Lavaca County - Hallettsville	4523
+Places - United States - Texas - Lavaca County - Shiner	3619
+Places - United States - Texas - Lee County	594
+Places - United States - Texas - Leon County	425
+Places - United States - Texas - Liberty County	2203
+Places - United States - Texas - Limestone County	2517
+Places - United States - Texas - Lipscomb County	1462
+Places - United States - Texas - Live Oak County	245
+Places - United States - Texas - Llano County	4157
+Places - United States - Texas - Loving County	95
+Places - United States - Texas - Lubbock County	1208
+Places - United States - Texas - Lubbock County - Lubbock	1164
+Places - United States - Texas - Lynn County	296
+Places - United States - Texas - Madison County	249
+Places - United States - Texas - Marion County	853
+Places - United States - Texas - Marion County - Jefferson	319
+Places - United States - Texas - Martin County	243
+Places - United States - Texas - Mason County	838
+Places - United States - Texas - Matagorda County	9231
+Places - United States - Texas - Matagorda County - Matagorda	128
+Places - United States - Texas - Maverick County	1216
+Places - United States - Texas - McCulloch County	2212
+Places - United States - Texas - McLennan County	10473
+Places - United States - Texas - McLennan County - Waco	3679
+Places - United States - Texas - McMullen County	165
+Places - United States - Texas - Medina County	5732
+Places - United States - Texas - Menard County	286
+Places - United States - Texas - Midland County	338
+Places - United States - Texas - Milam County	4898
+Places - United States - Texas - Milam County - Cameron	61
+Places - United States - Texas - Mills County	3486
+Places - United States - Texas - Mitchell County	212
+Places - United States - Texas - Mitchell County - Colorado City	12
+Places - United States - Texas - Montague County	6052
+Places - United States - Texas - Montgomery County	2333
+Places - United States - Texas - Moore County	186
+Places - United States - Texas - Morris County	1625
+Places - United States - Texas - Motley County	191
+Places - United States - Texas - Nacogdoches County	803
+Places - United States - Texas - Nacogdoches County - Nacogdoches	69
+Places - United States - Texas - Navarro County	2973
+Places - United States - Texas - Navarro County - Corsicana	324
+Places - United States - Texas - Newton County	346
+Places - United States - Texas - Nolan County	7392
+Places - United States - Texas - Nueces County	8918
+Places - United States - Texas - Ochiltree County	173
+Places - United States - Texas - Oldham County	251
+Places - United States - Texas - Orange County	3207
+Places - United States - Texas - Orange County - Orange	8528
+Places - United States - Texas - Palo Pinto County	1862
+Places - United States - Texas - Palo Pinto County - Mineral Wells	1118
+Places - United States - Texas - Panola County	6255
+Places - United States - Texas - Parker County	6706
+Places - United States - Texas - Parmer County	124
+Places - United States - Texas - Pecos County	1463
+Places - United States - Texas - Polk County	5990
+Places - United States - Texas - Potter County	1937
+Places - United States - Texas - Potter County - Amarillo	1927
+Places - United States - Texas - Presidio County	866
+Places - United States - Texas - Presidio County - Marfa	305
+Places - United States - Texas - Rains County	2980
+Places - United States - Texas - Randall County	923
+Places - United States - Texas - Reagan County	3388
+Places - United States - Texas - Real County	206
+Places - United States - Texas - Red River County	6645
+Places - United States - Texas - Red River County - Clarksville	3862
+Places - United States - Texas - Reeves County	396
+Places - United States - Texas - Reeves County - Pecos	244
+Places - United States - Texas - Refugio County	2660
+Places - United States - Texas - Roberts County	131
+Places - United States - Texas - Robertson County	612
+Places - United States - Texas - Robertson County - Calvert	5
+Places - United States - Texas - Rockwall County	633
+Places - United States - Texas - Runnels County	4564
+Places - United States - Texas - Rusk County	592
+Places - United States - Texas - Rusk County - Henderson	4087
+Places - United States - Texas - Sabine County	209
+Places - United States - Texas - San Augustine County	397
+Places - United States - Texas - San Augustine County - San Augustine	139
+Places - United States - Texas - San Jacinto County	659
+Places - United States - Texas - San Patricio County	13648
+Places - United States - Texas - San Saba County	255
+Places - United States - Texas - San Saba County - San Saba	381
+Places - United States - Texas - Schleicher County	533
+Places - United States - Texas - Scurry County	201
+Places - United States - Texas - Scurry County - Snyder	700
+Places - United States - Texas - Shackelford County	383
+Places - United States - Texas - Shackelford County - Albany	6705
+Places - United States - Texas - Shackelford County - Fort Griffin	153
+Places - United States - Texas - Shelby County	8401
+Places - United States - Texas - Sherman County	141
+Places - United States - Texas - Smith County	2465
+Places - United States - Texas - Somervell County	165
+Places - United States - Texas - Somervell County - Glen Rose	43
+Places - United States - Texas - Starr County	2768
+Places - United States - Texas - Stephens County	7394
+Places - United States - Texas - Stephens County - Breckenridge	4779
+Places - United States - Texas - Sterling County	143
+Places - United States - Texas - Stonewall County	3270
+Places - United States - Texas - Sutton County	743
+Places - United States - Texas - Swisher County	4887
+Places - United States - Texas - Tarrant County	6554
+Places - United States - Texas - Tarrant County - Fort Worth	13111
+Places - United States - Texas - Taylor County	1947
+Places - United States - Texas - Taylor County - Abilene	18313
+Places - United States - Texas - Terrell County	398
+Places - United States - Texas - Terry County	161
+Places - United States - Texas - Throckmorton County	678
+Places - United States - Texas - Titus County	7548
+Places - United States - Texas - Tom Green County	1169
+Places - United States - Texas - Tom Green County - San Angelo	204
+Places - United States - Texas - Travis County	8598
+Places - United States - Texas - Travis County - Austin	4642
+Places - United States - Texas - Trinity County	351
+Places - United States - Texas - Tyler County	274
+Places - United States - Texas - Upshur County	3769
+Places - United States - Texas - Upton County	180
+Places - United States - Texas - Uvalde County	582
+Places - United States - Texas - Val Verde County	896
+Places - United States - Texas - Val Verde County - Del Rio	281
+Places - United States - Texas - Van Zandt County	3087
+Places - United States - Texas - Van Zandt County - Canton	1023
+Places - United States - Texas - Victoria County	3678
+Places - United States - Texas - Victoria County - Victoria	48
+Places - United States - Texas - Walker County	494
+Places - United States - Texas - Waller County	378
+Places - United States - Texas - Ward County	264
+Places - United States - Texas - Washington County	1783
+Places - United States - Texas - Washington County - Brenham	18631
+Places - United States - Texas - Webb County	999
+Places - United States - Texas - Webb County - Laredo	442
+Places - United States - Texas - Wharton County	2584
+Places - United States - Texas - Wheeler County	3740
+Places - United States - Texas - Wichita County	5604
+Places - United States - Texas - Wilbarger County	403
+Places - United States - Texas - Wilbarger County - Vernon	6
+Places - United States - Texas - Willacy County	433
+Places - United States - Texas - Williamson County	3983
+Places - United States - Texas - Williamson County - Bartlett	2792
+Places - United States - Texas - Williamson County - Georgetown	2565
+Places - United States - Texas - Williamson County - Taylor	863
+Places - United States - Texas - Wilson County	435
+Places - United States - Texas - Winkler County	2528
+Places - United States - Texas - Wise County	963
+Places - United States - Texas - Wise County - Alvord	4
+Places - United States - Texas - Wise County - Decatur	496
+Places - United States - Texas - Wood County	2804
+Places - United States - Texas - Yoakum County	139
+Places - United States - Texas - Young County	7199
+Places - United States - Texas - Zapata County	370
+Places - United States - Texas - Zavala County	1502
+Places - United States - Utah	44
+Places - United States - Vermont	16
+Places - United States - Virginia	73
+Places - United States - Washington	98
+Places - United States - Washington D.C.	559
+Places - United States - West Virginia	44
+Places - United States - Western Region	39
+Places - United States - Wisconsin	91
+Places - United States - Wyoming	43
+Religion	5906
+Religion - Chapels	361
+Religion - Churches	8141
+Religion - Churches - Clergy	1352
+Religion - Churches - Congregations	1199
+Religion - Churches - Records	79
+Religion - Churches - Records - Baptisms	85
+Religion - Denominations	257
+Religion - Denominations - Baptist	2446
+Religion - Denominations - Catholic	6978
+Religion - Denominations - Church of Christ	2488
+Religion - Denominations - Cistercians	49
+Religion - Denominations - Episcopal	382
+Religion - Denominations - Islam	53
+Religion - Denominations - Jewish	8226
+Religion - Denominations - Lutheran	1795
+Religion - Denominations - Methodist	5762
+Religion - Denominations - Methodist Episcopal	148
+Religion - Denominations - Mormons	26
+Religion - Denominations - Presbyterian	916
+Religion - Missions	276
+Religion - Missions - Concepcion	64
+Religion - Missions - San Antonio de Valero (Alamo)	44
+Religion - Missions - San Jose	86
+Religion - Missions - San Juan	6
+Religion - Mosques	31
+Religion - Synagogues	2658
+Religion - Temples	80
+Science and Technology	20800
+Science and Technology - Biology	867
+Science and Technology - Chemical Plants	282
+Science and Technology - Computers	1420
+Science and Technology - Environmentalism	1552
+Science and Technology - Geology	492
+Science and Technology - Space	1827
+Science and Technology - Tools	3877
+Science and Technology - Tools - Turnbuckles	9
+Social Life and Customs	42125
+Social Life and Customs - Awards	5630
+Social Life and Customs - Clothing	7702
+Social Life and Customs - Clothing - Accessories	1898
+Social Life and Customs - Clothing - Accessories - Hats	1340
+Social Life and Customs - Clothing - Accessories - Shoes	755
+Social Life and Customs - Clubs and Organizations	31590
+Social Life and Customs - Clubs and Organizations - 4-H	129
+Social Life and Customs - Clubs and Organizations - American Fisheries Society	139
+Social Life and Customs - Clubs and Organizations - American Quarter Horse Association	16
+Social Life and Customs - Clubs and Organizations - Boy Scouts	1444
+Social Life and Customs - Clubs and Organizations - Camp Fire Girls	57
+Social Life and Customs - Clubs and Organizations - Elks Lodge	72
+Social Life and Customs - Clubs and Organizations - Fraternities	522
+Social Life and Customs - Clubs and Organizations - Future Farmers of America (FFA)	28
+Social Life and Customs - Clubs and Organizations - Girl Scouts	154
+Social Life and Customs - Clubs and Organizations - Independent Order of Odd Fellows	15
+Social Life and Customs - Clubs and Organizations - Ku Klux Klan	130
+Social Life and Customs - Clubs and Organizations - Links	1610
+Social Life and Customs - Clubs and Organizations - Masons	369
+Social Life and Customs - Clubs and Organizations - National Cutting Horse Association	5814
+Social Life and Customs - Clubs and Organizations - Old Settlers Associations	16
+Social Life and Customs - Clubs and Organizations - Parent Teacher Association (PTA)	67
+Social Life and Customs - Clubs and Organizations - Rotary	92
+Social Life and Customs - Clubs and Organizations - Sororities	403
+Social Life and Customs - Clubs and Organizations - Young Men's Christian Association (YMCA)	193
+Social Life and Customs - Clubs and Organizations - Young Women's Christian Association (YWCA)	23
+Social Life and Customs - Competitions	3808
+Social Life and Customs - Competitions - Beauty Pageants	1682
+Social Life and Customs - Correspondence	47528
+Social Life and Customs - Customs	487
+Social Life and Customs - Customs - Anniversaries	2622
+Social Life and Customs - Customs - Birthdays	990
+Social Life and Customs - Customs - Celebrations	8945
+Social Life and Customs - Customs - Festivals	306
+Social Life and Customs - Customs - Funerals	6078
+Social Life and Customs - Customs - Funerals - Cemeteries	1529
+Social Life and Customs - Customs - Holidays	2041
+Social Life and Customs - Customs - Holidays - Christmas	6408
+Social Life and Customs - Customs - Holidays - Easter	379
+Social Life and Customs - Customs - Holidays - Halloween	292
+Social Life and Customs - Customs - Holidays - Independence Day	368
+Social Life and Customs - Customs - Holidays - Kwanzaa	2616
+Social Life and Customs - Customs - Holidays - St. Patrick's Day	68
+Social Life and Customs - Customs - Holidays - Thanksgiving	377
+Social Life and Customs - Customs - Holidays - Valentines Day	110
+Social Life and Customs - Customs - Parades	3815
+Social Life and Customs - Customs - Parties	3157
+Social Life and Customs - Customs - Picnics	549
+Social Life and Customs - Customs - Reunions	1089
+Social Life and Customs - Customs - Weddings	1573
+Social Life and Customs - Fairs and Exhibitions	7956
+Social Life and Customs - Families	6063
+Social Life and Customs - Firearms	4456
+Social Life and Customs - Food and Cooking	5261
+Social Life and Customs - Food and Cooking - Dining	2126
+Social Life and Customs - Food and Cooking - Nutrition	423
+Social Life and Customs - Furnishings	1090
+Social Life and Customs - Furnishings - Dishes	304
+Social Life and Customs - Furnishings - Furniture	2064
+Social Life and Customs - Furnishings - Kitchenware	662
+Social Life and Customs - Furnishings - Linens	101
+Social Life and Customs - Furnishings - Rugs	71
+Social Life and Customs - Furnishings - Utensils	135
+Social Life and Customs - Group Homes	410
+Social Life and Customs - Hobbies	266
+Social Life and Customs - Hobbies - Collections	440
+Social Life and Customs - Homes	15418
+Social Life and Customs - Meetings and Conferences	22707
+Social Life and Customs - Pets	292
+Social Life and Customs - Pets - Cats	434
+Social Life and Customs - Pets - Dogs	2292
+Social Life and Customs - Pets - Fish	87
+Social Life and Customs - Popular Culture	563
+Social Life and Customs - Popular Culture - Magazines	1468
+Social Life and Customs - Popular Culture - Television	3692
+Social Life and Customs - Slavery	423
+Social Life and Customs - Toys	972
+Social Life and Customs - Travel	6131
+Sports and Recreation	5564
+Sports and Recreation - Amusement Rides	449
+Sports and Recreation - Badminton	49
+Sports and Recreation - Baseball	3827
+Sports and Recreation - Basketball	5533
+Sports and Recreation - Biking	516
+Sports and Recreation - Billiards	59
+Sports and Recreation - Bowling	243
+Sports and Recreation - Boxing	1239
+Sports and Recreation - Camping	530
+Sports and Recreation - Cheerleading	493
+Sports and Recreation - City Parks	2595
+Sports and Recreation - Dancing	1243
+Sports and Recreation - Fencing	93
+Sports and Recreation - Fishing	1528
+Sports and Recreation - Football	13165
+Sports and Recreation - Games	1069
+Sports and Recreation - Games - Marbles	7
+Sports and Recreation - Gear	414
+Sports and Recreation - Golf	2692
+Sports and Recreation - Gymnastics	197
+Sports and Recreation - Hiking	269
+Sports and Recreation - Hockey	913
+Sports and Recreation - Hunting	994
+Sports and Recreation - Ice Skating	130
+Sports and Recreation - Karate	44
+Sports and Recreation - Off Roading	11
+Sports and Recreation - Ping Pong	36
+Sports and Recreation - Racing	1013
+Sports and Recreation - Riding	43
+Sports and Recreation - Riding - Bulls	126
+Sports and Recreation - Riding - Donkeys	55
+Sports and Recreation - Riding - Horses	8030
+Sports and Recreation - Riding - Mules	34
+Sports and Recreation - Rodeos	1219
+Sports and Recreation - Rowing	44
+Sports and Recreation - Scuba Diving	34
+Sports and Recreation - Soccer	593
+Sports and Recreation - Softball	169
+Sports and Recreation - Sports Teams	1512
+Sports and Recreation - Stadiums	2294
+Sports and Recreation - Swimming	1263
+Sports and Recreation - Tennis	864
+Sports and Recreation - Track and Field	831
+Sports and Recreation - Volleyball	356
+Sports and Recreation - Wrestling	103
