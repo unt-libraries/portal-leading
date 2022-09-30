@@ -1,0 +1,31 @@
+Term	CollocationCount
+Military and War	2304
+Military and War - Wars - Vietnam War	47
+Military and War - Personnel	41
+Military and War - Personnel - Veterans	33
+Military and War - United States Armed Forces - United States Air Force	32
+Military and War - Transportation - Aviation	29
+Military and War - Weapons	27
+Military and War - Uniforms and Insignia	22
+Military and War - United States Armed Forces - United States Army	19
+Military and War - Wars - World War II	17
+Military and War - Transportation - Land Vehicles - Tanks	12
+Military and War - Camps	10
+Military and War - United States Armed Forces	10
+Military and War - Bases	8
+Military and War - United States Armed Forces - United States Navy	8
+Military and War - Transportation - Ships	7
+Military and War - Wars - Mexican Revolution	6
+Military and War - Forts - Fort Hood	5
+Military and War - Transportation	5
+Military and War - United States Armed Forces - United States Marine Corps	5
+Military and War - Forts	4
+Military and War - Wars	4
+Military and War - Wars - Korean War	4
+Military and War - Wars - World War I	4
+Military and War - Wars - Texas Revolution	3
+Military and War - Weapons - Cannons	3
+Military and War - Transportation - Land Vehicles	2
+Military and War - United States Armed Forces - United States Coast Guard	2
+Military and War - Wars - Civil War	2
+Military and War - Wars - Mexican War	2

@@ -1,0 +1,38 @@
+Term	CollocationCount
+Sports and Recreation	5567
+Sports and Recreation - Sports Teams	202
+Sports and Recreation - Football	166
+Sports and Recreation - Basketball	103
+Sports and Recreation - Baseball	89
+Sports and Recreation - City Parks	66
+Sports and Recreation - Hockey	39
+Sports and Recreation - Golf	33
+Sports and Recreation - Swimming	30
+Sports and Recreation - Softball	27
+Sports and Recreation - Stadiums	25
+Sports and Recreation - Dancing	16
+Sports and Recreation - Tennis	16
+Sports and Recreation - Track and Field	12
+Sports and Recreation - Boxing	11
+Sports and Recreation - Bowling	10
+Sports and Recreation - Soccer	10
+Sports and Recreation - Riding - Horses	8
+Sports and Recreation - Fishing	7
+Sports and Recreation - Gymnastics	7
+Sports and Recreation - Hunting	7
+Sports and Recreation - Volleyball	7
+Sports and Recreation - Cheerleading	6
+Sports and Recreation - Racing	5
+Sports and Recreation - Games	4
+Sports and Recreation - Badminton	3
+Sports and Recreation - Camping	3
+Sports and Recreation - Rodeos	3
+Sports and Recreation - Amusement Rides	2
+Sports and Recreation - Biking	2
+Sports and Recreation - Fencing	2
+Sports and Recreation - Wrestling	2
+Sports and Recreation - Billiards	1
+Sports and Recreation - Ice Skating	1
+Sports and Recreation - Riding	1
+Sports and Recreation - Riding - Bulls	1
+Sports and Recreation - Scuba Diving	1

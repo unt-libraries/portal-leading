@@ -1,0 +1,1077 @@
+Term	Count
+"Business, Economics and Finance - Communications - Newspapers"	897391
+"Business, Economics and Finance - Advertising"	892117
+"Business, Economics and Finance - Journalism"	886451
+"Business, Economics and Finance - Communications - Media"	281782
+People - Individuals	164216
+Architecture - Buildings	116104
+Landscape and Nature - Geography and Maps	85466
+Social Life and Customs - Correspondence	83282
+Arts and Crafts - Music	68364
+Education - Colleges and Universities - University of North Texas	56864
+Education - Schools - Students	49936
+Social Life and Customs	42629
+Places - United States - Texas - Harris County	37634
+People - Ethnic Groups - African Americans	35041
+Government and Law - Texas Laws and Regulations	33421
+Social Life and Customs - Clubs and Organizations	32596
+Education - Colleges and Universities - Faculty and Staff	32201
+Places - United States - Texas - Bexar County - San Antonio	23883
+Science and Technology	23324
+Social Life and Customs - Meetings and Conferences	23285
+Places - United States - Texas - Harris County - Houston	22845
+People - Groups	22537
+People	21621
+Arts and Crafts - Theatre	21540
+Government and Law - Elected Officials - Attorneys General	21531
+Places - United States - Texas - DeWitt County	21103
+Government and Law - Law Enforcement - Police	20351
+Places - United States - Texas - Taylor County - Abilene	20147
+Places - United States - Texas	20129
+"Business, Economics and Finance - Transportation - Automobiles"	19811
+Places - United States - Texas - Grayson County	19534
+People - Children	19419
+Places - United States - Texas - Galveston County - Galveston	19189
+Arts and Crafts	18797
+Places - United States - Texas - Washington County - Brenham	18631
+"Business, Economics and Finance - Finance"	17417
+Places - United States - Texas - Denton County - Denton	17200
+Places - United States - Texas - Cameron County - Brownsville	16820
+Military and War - Wars - World War II	16723
+Social Life and Customs - Homes	15647
+"Business, Economics and Finance"	15207
+Places - United States - Texas - Dallas County	14416
+Places - United States - Texas - Tarrant County - Fort Worth	14336
+Military and War - Personnel	14270
+Places - United States - Texas - San Patricio County	13665
+Arts and Crafts - Dance	13546
+Places - United States - Texas - Bexar County	13227
+Sports and Recreation - Football	13227
+Places - United States - Texas - El Paso County - El Paso	13034
+Government and Law - Money	12942
+Places - United States - Texas - Brown County - Brownwood	12937
+Government and Law - Elected Officials - Representatives	12918
+Government and Law - Law Enforcement - Investigations	12683
+Government and Law	12633
+People - Ethnic Groups - Hispanics	12479
+Places - United States - Texas - Dallas County - Dallas	12055
+Places - United States - Texas - Hopkins County	11507
+Architecture - Civil Works - Streets and Roads	10843
+Education - Colleges and Universities	10791
+Government and Law - Politics	10636
+Places - United States - Texas - McLennan County	10560
+Places - United States - Texas - Fannin County	10297
+Places - United States - Texas - Fayette County	10127
+Government and Law - Vital Records - Deaths	10002
+Places - United States - Texas - Johnson County	9946
+Places - United States - Texas - Bell County	9844
+Sports and Recreation - Riding - Horses	9805
+Places - United States - Texas - Nueces County	9765
+Government and Law - County Courthouses	9551
+Military and War - United States Armed Forces - United States Army	9515
+Places - United States - Texas - Lampasas County	9420
+Places - United States - Texas - Matagorda County	9231
+Places - United States - Texas - Erath County	9176
+Social Life and Customs - Customs - Celebrations	8981
+"Business, Economics and Finance - Transportation - Aviation - Airplanes"	8828
+Places - United States - Texas - Travis County	8785
+Places - United States - Texas - Eastland County	8781
+Places - United States - Texas - Ellis County	8781
+Architecture - Construction	8699
+"Business, Economics and Finance - Service Industries - Photography"	8626
+Education - Schools	8553
+Places - United States - Texas - Young County	8544
+Places - United States - Texas - Orange County - Orange	8528
+Places - United States - Texas - Cooke County	8507
+Government and Law - Civil Servants - Firefighters	8477
+Places - United States - Texas - Shelby County	8424
+Religion - Churches	8243
+Religion - Denominations - Jewish	8234
+Places - United States - Texas - Freestone County	8205
+Places - United States - Texas - Comanche County	8171
+Education - Schools - Buildings	8063
+Social Life and Customs - Fairs and Exhibitions	7993
+Places - United States - Texas - Bastrop County	7964
+Social Life and Customs - Travel	7953
+Places - United States - Texas - Collin County	7929
+Architecture	7909
+Government and Law - Elected Officials - Presidents	7896
+Social Life and Customs - Clothing	7744
+Places - United States - Texas - Brazoria County	7699
+Places - United States - Texas - Brazos County	7573
+Places - United States - Texas - Titus County	7548
+Education - Events	7467
+"Business, Economics and Finance - Transportation - Accidents"	7458
+Places - United States - Texas - Nolan County	7395
+Places - United States - Texas - Stephens County	7394
+Places - United States - Texas - Grimes County	7312
+Education	7078
+Religion - Denominations - Catholic	6996
+People - Ethnic Groups - Czechs	6989
+Places - United States - Texas - Parker County	6832
+Landscape and Nature - Natural Disasters - Fires	6801
+Arts and Crafts - Theatre - Motion Pictures	6782
+"Business, Economics and Finance - Medicine - Hospitals"	6766
+Places - United States - Texas - Red River County	6742
+Places - United States - Texas - Shackelford County - Albany	6730
+Education - Colleges and Universities - Palo Alto College	6574
+Places - United States - Texas - Tarrant County	6564
+Government and Law - Elected Officials	6523
+Social Life and Customs - Customs - Holidays - Christmas	6502
+Places - United States - Texas - El Paso County	6405
+Places - United States - Texas - Coleman County	6365
+"Business, Economics and Finance - Transportation - Railroads"	6327
+Places - United States - Texas - Galveston County	6306
+Government and Law - Taxes	6298
+Places - United States - Texas - Deaf Smith County	6282
+"Business, Economics and Finance - Medicine"	6271
+Places - United States - Texas - Panola County	6256
+Agriculture - Domestic Animals - Horses	6164
+Social Life and Customs - Families	6122
+Social Life and Customs - Customs - Funerals	6097
+Places - United States - Texas - Montague County	6088
+Government and Law - State Agencies	6048
+Landscape and Nature - Weather and Climate	6045
+Agriculture - Domestic Animals	6023
+Places - United States - Texas - Polk County	5990
+Religion	5948
+Social Life and Customs - Clubs and Organizations - National Cutting Horse Association	5874
+Government and Law - Law Enforcement - Jails and Prisons	5872
+Places - United States - Texas - Bosque County - Clifton	5870
+Government and Law - Elected Officials - Senators	5823
+Places - United States - Texas - Denton County	5795
+Religion - Denominations - Methodist	5764
+Places - United States - Texas - Hockley County	5755
+Places - United States - Texas - Medina County	5732
+Places - United States - Texas - Wichita County	5719
+Social Life and Customs - Awards	5685
+"Business, Economics and Finance - Transportation - Aviation"	5679
+Sports and Recreation	5666
+Places - United States - Texas - Jack County - Jacksboro	5662
+Places - United States - Texas - Lavaca County	5600
+Sports and Recreation - Basketball	5575
+"Business, Economics and Finance - Stores"	5548
+Places - United States - Texas - Delta County	5503
+"Business, Economics and Finance - Finance - Banks"	5398
+Military and War - Transportation - Aviation	5324
+Social Life and Customs - Food and Cooking	5280
+Places - United States - Texas - Travis County - Austin	5187
+Places - United States - Texas - Stephens County - Breckenridge	5126
+Places - United States - Texas - Austin County	5116
+Places - United States - Texas - Jones County	5027
+Places - United States - Texas - Erath County - Stephenville	4992
+Places - United States - Texas - Milam County	4917
+Places - United States - Texas - Haskell County	4890
+Places - United States - Texas - Swisher County	4887
+"Business, Economics and Finance - Transportation"	4886
+Military and War - Wars - Vietnam War	4882
+Places - United States - Texas - Cherokee County	4865
+Education - Schools - Teachers	4819
+Government and Law - Politics - Speeches	4810
+People - Ethnic Groups - Germans	4750
+Arts and Crafts - Music - Bands	4735
+Military and War - Transportation - Ships	4728
+Government and Law - Elected Officials - Governors	4607
+Military and War - Bases	4584
+Places - United States - Texas - Runnels County	4564
+Places - United States - Texas - Anderson County - Palestine	4561
+Places - United States - Texas - Lavaca County - Hallettsville	4523
+Social Life and Customs - Firearms	4512
+Places - United States - Texas - Hidalgo County	4498
+Agriculture - Domestic Animals - Cattle	4494
+Places - United States - Texas - Archer County	4480
+Places - United States - Texas - Fayette County - La Grange	4479
+Places - United States - Texas - Gillespie County	4365
+"Business, Economics and Finance - Hotels"	4281
+Places - United States - Texas - Llano County	4246
+Places - United States - Texas - Williamson County	4231
+People - Family Groups	4209
+Landscape and Nature - Aerials	4201
+Military and War - Personnel - Veterans	4124
+Places - United States - Texas - Rusk County - Henderson	4087
+"Business, Economics and Finance - Transportation - Railroads - Trains"	4074
+"Business, Economics and Finance - Medicine - Doctors"	4066
+Arts and Crafts - Music - Instruments	4054
+Science and Technology - Tools	3922
+Landscape and Nature - Plants	3911
+Sports and Recreation - Baseball	3911
+Social Life and Customs - Competitions	3875
+Places - United States - Texas - Red River County - Clarksville	3866
+Social Life and Customs - Customs - Parades	3844
+Landscape and Nature - Water	3839
+Places - United States - Texas - Wheeler County	3830
+Places - United States - Texas - Cottle County	3819
+Military and War - United States Armed Forces - United States Air Force	3812
+Places - United States - Texas - Upshur County	3771
+Social Life and Customs - Popular Culture - Television	3746
+Places - United States - Texas - McLennan County - Waco	3739
+Places - United States - Texas - Harrison County - Marshall	3714
+Places - United States - Texas - Victoria County	3678
+Places - United States - Texas - Guadalupe County	3660
+"Business, Economics and Finance - Tourism"	3644
+Places - United States - Texas - Jefferson County	3626
+Places - United States - Texas - Lavaca County - Shiner	3619
+Landscape and Nature	3592
+"Business, Economics and Finance - Oil and Gas"	3517
+Places - United States - Texas - Mills County	3488
+Places - United States - Texas - Reagan County	3389
+Places - United States - Texas - Stonewall County	3368
+Education - Colleges and Universities - Hardin-Simmons University	3340
+Government and Law - Elected Officials - County Judges	3327
+Places - United States - Texas - Ellis County - Ennis	3299
+Places - United States - Texas - Hemphill County	3297
+Places - United States - Texas - Bell County - Temple	3260
+Places - United States - Texas - Lamar County	3248
+Places - United States - Texas - Crosby County - Crosbyton	3244
+Places - United States - Texas - Hunt County	3217
+Places - United States - Texas - Hardin County	3216
+Places - United States - Texas - Orange County	3207
+Social Life and Customs - Customs - Parties	3202
+Government and Law - Legal Documents - Probate	3197
+Places - United States - Texas - Van Zandt County	3195
+Education - Colleges and Universities - Rice University	3175
+Government and Law - Legal Documents	3175
+Government and Law - Elected Officials - Mayors	3072
+Places - United States - Texas - Smith County	3037
+Places - United States - Texas - Wood County	3022
+Places - United States - Texas - Hutchinson County	3008
+Places - United States - Texas - Rains County	2986
+Places - United States - Texas - Cherokee County - Rusk	2977
+Places - United States - Texas - Navarro County	2975
+Landscape and Nature - Water - Rivers	2923
+Places - United States - Texas - Limestone County	2897
+Government and Law - Money - Paper Money	2866
+Agriculture - Farming	2847
+Education - Colleges and Universities - Tarleton State University	2840
+Places - United States - Texas - Cass County	2814
+Architecture - Landmarks - Historic Markers	2805
+Places - United States - Texas - Williamson County - Bartlett	2792
+Places - United States - Texas - Burleson County	2789
+Places - United States - Texas - Starr County	2769
+Places - United States - Texas - Cameron County	2734
+"Business, Economics and Finance - Transportation - Aviation - Helicopters"	2716
+Sports and Recreation - City Parks	2708
+Sports and Recreation - Golf	2702
+Places - United States - Texas - Refugio County	2686
+Places - United States - Texas - La Salle County	2675
+Religion - Synagogues	2662
+Places - United States - Texas - Potter County - Amarillo	2650
+Education - Schools - Classes	2646
+Social Life and Customs - Customs - Anniversaries	2640
+Architecture - Museums	2630
+Agriculture	2626
+Social Life and Customs - Customs - Holidays - Kwanzaa	2616
+Landscape and Nature - Water - Lakes	2606
+Places - United States - Texas - Kendall County	2593
+Places - United States - Texas - Wharton County	2586
+Places - United States - Texas - Williamson County - Georgetown	2565
+Places - United States - Texas - Dallas County - Carrollton	2562
+Places - United States - Texas - Winkler County	2528
+Architecture - Libraries	2501
+"Business, Economics and Finance - Transportation - Buses"	2490
+Religion - Denominations - Church of Christ	2490
+Military and War - Wars - Civil War	2477
+Religion - Denominations - Baptist	2461
+"Business, Economics and Finance - Restaurants"	2427
+Places - United States - Texas - Fannin County - Honey Grove	2411
+Landscape and Nature - State and National Parks	2390
+Places - United States - Texas - Angelina County - Lufkin	2390
+Places - United States - Texas - Franklin County	2374
+Places - United States - Texas - Nacogdoches County - Nacogdoches	2358
+Places - United States - Texas - Montgomery County	2335
+"Business, Economics and Finance - Transportation - Trucks"	2324
+Military and War	2316
+Sports and Recreation - Stadiums	2316
+Social Life and Customs - Pets - Dogs	2311
+Military and War - United States Armed Forces - United States Navy	2282
+"Business, Economics and Finance - Real Estate"	2274
+Places - United States - Texas - Gaines County	2272
+Education - Colleges and Universities - McMurry University	2258
+Military and War - Forts - Fort Hood	2258
+Education - Colleges and Universities - Texas Wesleyan University	2252
+Military and War - Uniforms and Insignia	2251
+Government and Law - Legislative Committees	2250
+Places - United States - Texas - Kaufman County	2237
+Places - United States - Texas - Carson County	2234
+Government and Law - Elected Officials - Congress	2231
+Places - United States - Texas - Liberty County	2222
+Places - United States - Texas - Denton County - Sanger	2214
+Places - United States - Texas - McCulloch County	2213
+Places - United States - Texas - Brewster County	2210
+Social Life and Customs - Food and Cooking - Dining	2192
+Places - United States - Texas - Hudspeth County	2185
+"Business, Economics and Finance - Communications - Telephones"	2147
+Landscape and Nature - Natural Disasters - Floods	2143
+Landscape and Nature - Wildlife	2143
+Places - United States - Texas - Gregg County	2141
+Social Life and Customs - Popular Culture - Magazines	2128
+Arts and Crafts - Paintings	2125
+Agriculture - Farm Equipment	2118
+"Business, Economics and Finance - Transportation - Boats"	2112
+Education - Colleges and Universities - Lamar University	2109
+Education - Colleges and Universities - Abilene Christian University	2099
+Military and War - Camps	2098
+Arts and Crafts - Drawings	2078
+Social Life and Customs - Furnishings - Furniture	2067
+Social Life and Customs - Customs - Holidays	2062
+Places - United States - Texas - Taylor County	2048
+Places - United States - Texas - Palo Pinto County	2047
+Education - Alumni	2040
+Places - United States - Texas - Collin County - McKinney	2037
+Education - Colleges and Universities - University of Texas	2019
+Arts and Crafts - Sculptures	2003
+Government and Law - Civil Servants	2003
+Places - United States - Texas - Fort Bend County	2003
+Agriculture - Ranching - Cowboys	2000
+Agriculture - Farming - Cotton	1982
+"Business, Economics and Finance - Oil and Gas - Refineries"	1975
+Places - United States - Texas - Randall County	1938
+Places - United States - Texas - Potter County	1937
+Social Life and Customs - Clothing - Accessories	1935
+"Business, Economics and Finance - Insurance"	1922
+Military and War - Weapons	1912
+Government and Law - City Halls	1893
+"Business, Economics and Finance - Stores - Grocery Stores"	1889
+Places - United States - Texas - Hays County	1867
+Science and Technology - Space	1865
+Literature	1861
+Education - Colleges and Universities - Southern Methodist University	1857
+"Business, Economics and Finance - Transportation - Horse-Drawn Vehicles"	1836
+Places - United States - Texas - Anderson County	1829
+Government and Law - Law Enforcement	1827
+Education - Colleges and Universities - Texas Christian University	1824
+Places - United States - Texas - Caldwell County	1824
+Arts and Crafts - Music - Choirs	1814
+Religion - Denominations - Lutheran	1797
+Architecture - Civil Works - Bridges	1786
+Places - United States - Texas - Washington County	1785
+Places - United States - Texas - Gaines County - Seminole	1764
+Places - United States - Texas - Bandera County	1759
+Agriculture - Ranching - Ranches	1758
+Government and Law - Law Enforcement - Sheriffs	1758
+Places - United States - Texas - Morris County	1736
+"Business, Economics and Finance - Communications"	1729
+Education - Events - Homecoming	1714
+Places - United States - Texas - Armstrong County - Claude	1702
+Places - United States - Texas - Edwards County	1700
+Social Life and Customs - Competitions - Beauty Pageants	1695
+Landscape and Nature - Mountains	1690
+Education - Colleges and Universities - San Antonio College	1680
+People - Ethnic Groups - American Indians	1663
+Education - Yearbooks	1636
+Places - United States - Texas - Jackson County	1627
+Social Life and Customs - Clubs and Organizations - Links	1611
+Social Life and Customs - Customs - Weddings	1595
+Places - United States - Texas - Carson County - Panhandle	1590
+Science and Technology - Environmentalism	1582
+Places - United States - Texas - Collin County - Wylie	1567
+Places - United States - Texas - Scurry County - Snyder	1557
+"Business, Economics and Finance - Oil and Gas - Companies - Humble Oil"	1556
+Sports and Recreation - Sports Teams	1556
+Social Life and Customs - Customs - Funerals - Cemeteries	1543
+Sports and Recreation - Fishing	1542
+Places - United States - Texas - Hays County - San Marcos	1532
+Education - Colleges and Universities - Lee College	1518
+Places - United States - Texas - Zavala County	1502
+Places - Mexico - Tamaulipas - Matamoros	1477
+Government and Law - Civil Servants - Postal Service	1470
+Places - United States - Texas - Pecos County	1465
+Places - United States - Texas - Wise County	1464
+Places - United States - Texas - Lipscomb County	1462
+Places - United States - Texas - Colorado County	1458
+Places - United States - Texas - Comal County	1453
+Social Life and Customs - Clubs and Organizations - Boy Scouts	1450
+Places - Mexico	1441
+Places - United States - Texas - Calhoun County - Port Lavaca	1432
+Places - United States - Texas - Fannin County - Leonard	1429
+Science and Technology - Computers	1421
+Military and War - United States Armed Forces	1414
+Places - United States - Texas - Baylor County	1408
+Places - United States - Texas - Harrison County	1404
+Arts and Crafts - Crafts - Fiber Arts - Sewing	1403
+Places - United States - Texas - Gray County	1389
+Education - Commencement	1381
+Places - Mexico - Texas	1372
+Government and Law - Court Reports	1364
+Landscape and Nature - Forests	1360
+Religion - Churches - Clergy	1359
+Places - United States - Texas - Hidalgo County - McAllen	1358
+Government and Law - County Records	1354
+Social Life and Customs - Clothing - Accessories - Hats	1353
+People - Ethnic Groups	1351
+Places - United States - Texas - Kleberg County	1289
+Places - United States - Texas - Duval County	1288
+Sports and Recreation - Swimming	1276
+"Business, Economics and Finance - Oil and Gas - Companies"	1260
+Sports and Recreation - Dancing	1255
+Sports and Recreation - Boxing	1246
+Arts and Crafts - Music - Marching Bands	1238
+Sports and Recreation - Rodeos	1223
+Places - United States - Texas - Maverick County	1216
+"Business, Economics and Finance - Medicine - Nurses"	1215
+Places - United States - Texas - Hill County	1210
+Religion - Churches - Congregations	1209
+Places - United States - Texas - Lubbock County	1208
+Architecture - Landmarks	1190
+Places - United States - Texas - Tom Green County	1169
+Places - United States - Texas - Lubbock County - Lubbock	1164
+"Business, Economics and Finance - Oil and Gas - Stations"	1147
+Arts and Crafts - Music - Orchestras	1135
+Places - United States - Texas - Deaf Smith County - Hereford	1134
+Government and Law - Elected Officials - Vice Presidents	1127
+Places - United States - Texas - Palo Pinto County - Mineral Wells	1118
+Social Life and Customs - Customs - Reunions	1111
+"Business, Economics and Finance - Factories"	1110
+Social Life and Customs - Furnishings	1110
+Places - United States - Texas - Hutchinson County - Borger	1105
+"Business, Economics and Finance - Stores - Department Stores"	1103
+Military and War - Wars - Mexican Revolution	1091
+Government and Law - Politics - Commentaries	1084
+Places - United States - Texas - Bosque County	1083
+Sports and Recreation - Games	1082
+Places - United States - Texas - Goliad County	1076
+Architecture - Monuments	1070
+"Business, Economics and Finance - Theatres"	1058
+Places - United States - Texas - Gonzales County	1039
+Places - United States - Texas - Van Zandt County - Canton	1023
+Sports and Recreation - Racing	1023
+"Business, Economics and Finance - Saloons, Bars, Taverns"	1020
+Landscape and Nature - Natural Disasters - Tornadoes	1020
+Landscape and Nature - Natural Disasters - Storms	1013
+"Business, Economics and Finance - Transportation - Ships"	1011
+Agriculture - Ranching	1010
+Social Life and Customs - Customs - Birthdays	1010
+Sports and Recreation - Hunting	1006
+Places - United States - Texas - Webb County	999
+"Business, Economics and Finance - Transportation - Railroads - Depots"	983
+Education - Colleges and Universities - University of Dallas	983
+Government and Law - Elected Officials - Supreme Court Judges	982
+Social Life and Customs - Toys	979
+Military and War - Wars - World War I	976
+Places - United States - Texas - Hood County	976
+Places - United States - Texas - Jim Hogg County	963
+Education - Colleges and Universities - Tarrant County College	961
+Religion - Denominations - Presbyterian	958
+Places - United States - Texas - Dallas County - Irving	954
+Places - United States - Texas - Crockett County	938
+Places - United States - Texas - Bastrop County - Smithville	925
+Government and Law - Legal Documents - Deeds	917
+"Business, Economics and Finance - Transportation - Trucks - Commercial"	916
+Sports and Recreation - Hockey	916
+Places - United States - Texas - Denton County - Pilot Point	909
+Places - United States - Texas - Val Verde County	896
+Education - Colleges and Universities - Concordia University Texas	892
+Government and Law - Federal Courthouses	877
+Landscape and Nature - Water - Creeks	875
+Sports and Recreation - Tennis	873
+Science and Technology - Biology	871
+Education - Colleges and Universities - Texas A&M University	869
+Places - United States - Texas - Presidio County	867
+Places - United States - Texas - Williamson County - Taylor	867
+Immigration	866
+Architecture - Civil Works	861
+Places - United States - Texas - Hale County	854
+Places - United States - Texas - Marion County	853
+Agriculture - Farming - Citrus and Fruit	852
+"Business, Economics and Finance - Electricity"	852
+Places - United States - Texas - Chambers County	850
+Places - United States - Texas - Henderson County	839
+Places - United States - Texas - Mason County	838
+Sports and Recreation - Track and Field	832
+Education - Colleges and Universities - St. Philip's College	829
+Military and War - United States Armed Forces - United States Marine Corps	822
+Places - United States - Texas - Fayette County - Schulenburg	821
+Landscape and Nature - Water - Oceans and Seas	820
+Places - United States - Texas - Coryell County	820
+Places - United States - Texas - Nacogdoches County	804
+Places - United States - Texas - Howard County	796
+Education - Colleges and Universities - Texas Lutheran University	785
+Arts and Crafts - Crafts - Jewelry	774
+Places - United States - Texas - Victoria County - Victoria	766
+Social Life and Customs - Clothing - Accessories - Shoes	756
+Places - United States - Texas - Bowie County	753
+Places - United States - Texas - Brooks County	753
+Agriculture - Processing and Storage	750
+Places - United States - Texas - Sutton County	743
+Places - North America	738
+Places - United States - Texas - Houston County	738
+Places - United States - Texas - Frio County	731
+Places - United States - Texas - Kerr County	725
+Places - United States - Texas - Leon County	723
+Agriculture - Domestic Animals - Poultry	721
+Places - United States - Texas - Jefferson County - Beaumont	714
+"Business, Economics and Finance - Service Industries"	710
+Places - United States - Oklahoma	700
+Places - United States - Texas - Schleicher County	694
+Agriculture - Farming - Sugarcane	693
+Places - United States - Texas - Rockwall County	693
+Places - United States - Texas - Wilbarger County - Vernon	693
+Agriculture - Farm Equipment - Plows	692
+Places - United States - Texas - Burnet County	688
+Places - United States	686
+Architecture - Civil Works - Locks and Dams - Dams	678
+Places - United States - Texas - Throckmorton County	678
+"Business, Economics and Finance - Oil and Gas - Oil Wells"	668
+"Business, Economics and Finance - Transportation - Motorcycles"	668
+Social Life and Customs - Furnishings - Kitchenware	663
+Places - United States - Texas - San Jacinto County	659
+"Business, Economics and Finance - Stores - Clothing Stores"	651
+Education - Colleges and Universities - Texas State University	643
+Landscape and Nature - Beaches	638
+Education - Schools - Cheerleaders	635
+Places - United States - Texas - Bosque County - Meridian	626
+Landscape and Nature - Natural Disasters - Hurricanes	625
+Places - Spain - Texas	625
+Government and Law - Vital Records - Marriages	618
+Military and War - Wars	618
+Places - United States - Texas - Robertson County	614
+Places - United States - Texas - Lee County	599
+Sports and Recreation - Soccer	598
+Places - United States - Texas - Rusk County	597
+Arts and Crafts - Crafts	596
+"Business, Economics and Finance - Electricity - Power Plants"	595
+Architecture - Civil Works - Locks and Dams	588
+Places - United States - Texas - Jefferson County - Port Arthur	585
+Places - United States - Texas - Uvalde County	582
+Social Life and Customs - Popular Culture	571
+Places - United States - Texas - Kimble County	563
+Places - United States - Texas - Brown County	562
+Places - United States - Texas - Falls County	562
+Places - United States - Washington D.C.	559
+Education - Colleges and Universities - University of Texas at Arlington	557
+Immigration - Colonies	557
+Architecture - Landmarks - Texas State Capitol	556
+Places - United States - New Mexico	556
+Places - United States - Texas - Hemphill County - Canadian	554
+Social Life and Customs - Customs - Picnics	554
+Agriculture - Farm Equipment - Tractors	546
+Social Life and Customs - Customs - Festivals	542
+Places - United States - Texas - Jeff Davis County	538
+Military and War - Transportation - Land Vehicles - Tanks	537
+Military and War - Forts	536
+Sports and Recreation - Camping	533
+Education - Colleges and Universities - Schreiner University	525
+Places - United States - Louisiana	525
+Social Life and Customs - Clubs and Organizations - Fraternities	522
+Places - United States - Texas - Walker County	517
+Sports and Recreation - Biking	516
+Landscape and Nature - Archaeology	506
+Places - United States - Texas - Kinney County	506
+Agriculture - Processing and Storage - Cotton Gins	505
+Landscape and Nature - Deserts	504
+Places - United States - Texas - Hamilton County	498
+Social Life and Customs - Customs	497
+Places - United States - Texas - Jasper County	496
+Places - United States - Texas - Wise County - Decatur	496
+Places - United States - Texas - San Augustine County	494
+Science and Technology - Geology	494
+Sports and Recreation - Cheerleading	493
+Agriculture - Domestic Animals - Horses - Tack	491
+Places - United States - Texas - Hall County	490
+Places - United States - Texas - San Saba County - San Saba	483
+"Business, Economics and Finance - Stores - Pharmacies"	479
+"Business, Economics and Finance - Transportation - Animal-Drawn Vehicles"	478
+Education - Colleges and Universities - Baylor University	478
+Military and War - Transportation - Land Vehicles	478
+Literature - Poetry	472
+Places - United States - Texas - Cochran County	470
+Places - United States - Texas - Dawson County	470
+Places - United States - Texas - Callahan County	468
+Education - Textbooks	467
+Sports and Recreation - Amusement Rides	457
+Places - United States - Texas - Wilson County	453
+Education - Colleges and Universities - Panola College	447
+People - Human Remains	447
+Places - United States - Texas - Culberson County	446
+Social Life and Customs - Hobbies - Collections	445
+Education - Colleges and Universities - St. Edward's University	444
+Places - United States - Texas - Webb County - Laredo	443
+"Business, Economics and Finance - Stores - General Stores"	441
+Places - Africa	441
+Social Life and Customs - Pets - Cats	441
+Places - United States - Texas - Crosby County	438
+Places - United States - Texas - Blanco County	433
+Places - United States - Texas - Willacy County	433
+Agriculture - Farming - Corn	431
+Places - United States - Texas - Bee County	429
+Social Life and Customs - Slavery	427
+Social Life and Customs - Food and Cooking - Nutrition	425
+"Business, Economics and Finance - Shipping"	422
+Places - United States - Texas - Clay County	422
+"Business, Economics and Finance - Medicine - Red Cross"	418
+Agriculture - Domestic Animals - Mules	416
+Places - United States - Texas - Karnes County	416
+Sports and Recreation - Gear	414
+Social Life and Customs - Group Homes	411
+"Business, Economics and Finance - Mining"	410
+Places - United States - Texas - Knox County	409
+Agriculture - Farming - Wheat	407
+Places - United States - Texas - Childress County	404
+Places - United States - Texas - Wilbarger County	403
+Social Life and Customs - Clubs and Organizations - Sororities	403
+Social Life and Customs - Customs - Holidays - Thanksgiving	403
+Places - United States - Texas - Atascosa County	402
+Military and War - Wars - Mexican War	399
+Places - United States - Texas - Collingsworth County	398
+Places - United States - Texas - Terrell County	398
+"Business, Economics and Finance - Electricity - Companies"	397
+Places - United States - Oklahoma - Oklahoma County - Oklahoma City	396
+Places - United States - Texas - Angelina County	396
+Places - United States - Texas - Reeves County	396
+Places - Central America	391
+Places - United States - Texas - Motley County	386
+Places - South America	383
+Places - United States - Texas - Shackelford County	383
+Religion - Denominations - Episcopal	382
+Places - United States - Texas - Hardeman County	381
+Social Life and Customs - Customs - Holidays - Easter	379
+Places - United States - Texas - Waller County	378
+Social Life and Customs - Clubs and Organizations - Masons	375
+Social Life and Customs - Customs - Holidays - Independence Day	372
+Places - United States - Texas - Zapata County	370
+Places - United States - Texas - Madison County	369
+Places - United States - Texas - Galveston County - Texas City	368
+Places - United States - Texas - Newton County	364
+Places - United States - Texas - Calhoun County	363
+Religion - Chapels	362
+Places - United States - California	359
+Sports and Recreation - Volleyball	356
+"Business, Economics and Finance - Medicine - Dentists"	355
+Places - United States - Texas - Trinity County	351
+Places - United States - Texas - Martin County	347
+Places - United States - Texas - Ochiltree County	345
+Education - Colleges and Universities - Temple College	341
+Agriculture - Farming - Dairy	339
+Places - United States - Texas - Midland County	338
+Education - Colleges and Universities - Howard Payne University	337
+People - Ethnic Groups - Chinese	337
+Places - United States - Texas - Oldham County	337
+Education - Schools - Principals	336
+Landscape and Nature - Water - Gulf of Mexico	336
+Places - United States - Texas - Navarro County - Corsicana	334
+Military and War - Wars - Texas Revolution	330
+Government and Law - Vital Records - Births	329
+Places - Europe	329
+Places - United States - New York	329
+Education - Colleges and Universities - Texas Tech University	328
+Places - United States - Texas - Jim Wells County	328
+Military and War - Wars - Korean War	327
+Places - United States - Texas - Donley County	326
+Places - United States - Texas - Marion County - Jefferson	324
+Landscape and Nature - Water - Ponds	322
+Places - United States - Texas - Floyd County	322
+Places - United States - Texas - Lamb County	321
+Agriculture - Farming - Vegetables	319
+Agriculture - Ranching - Barbed Wire	317
+"Business, Economics and Finance - Logging"	311
+"Business, Economics and Finance - Stores - Jewelry Stores"	310
+Places - United States - Texas - Briscoe County	307
+Places - United States - Texas - Presidio County - Marfa	305
+Social Life and Customs - Furnishings - Dishes	305
+Arts and Crafts - Crafts - Wood Carving	304
+Places - United States - Texas - Val Verde County - Del Rio	303
+Places - Canada	299
+"Business, Economics and Finance - Service Industries - Funeral Homes"	298
+Places - United States - Texas - Lynn County	296
+Social Life and Customs - Customs - Holidays - Halloween	296
+Social Life and Customs - Pets	296
+Places - United States - Texas - Tyler County	294
+Government and Law - Constitutions	293
+Places - United States - Texas - Garza County	293
+Places - United States - Texas - Fisher County	292
+"Business, Economics and Finance - Stores - Farmers' Markets"	291
+Landscape and Nature - Water - Canals	291
+Arts and Crafts - Crafts - Fiber Arts	290
+Places - United States - Texas - Aransas County	289
+"Business, Economics and Finance - Medicine - Nursing Homes"	288
+Arts and Crafts - Paintings - Murals	286
+Places - United States - Texas - Menard County	286
+Science and Technology - Chemical Plants	286
+Religion - Missions	284
+"Business, Economics and Finance - Stores - Furniture Stores"	283
+Agriculture - Farming - Hay	281
+Agriculture - Processing and Storage - Barns	281
+Government and Law - Money - Coins	280
+Places - United States - Texas - Jack County	279
+People - Groups - Pioneers	278
+Places - United States - Texas - Cherokee County - Jacksonville	278
+"Business, Economics and Finance - Oil and Gas - Companies - Lone Star Gas"	276
+Places - United States - Texas - Ector County	276
+Government and Law - Court Dockets	272
+Landscape and Nature - Natural Disasters - Earthquakes	271
+Sports and Recreation - Hiking	270
+Government and Law - Law Enforcement - Texas Rangers	269
+Places - United States - Texas - Clay County - Henrietta	269
+Social Life and Customs - Hobbies	268
+Agriculture - Domestic Animals - Swine	265
+"Business, Economics and Finance - Service Industries - Printing"	265
+Education - Colleges and Universities - West Texas A&M University	265
+Places - United States - Texas - Camp County	265
+Places - United States - Texas - Ward County	264
+Places - United States - Texas - Kent County	261
+Places - United States - Texas - Kenedy County	260
+Places - United States - Texas - Hunt County - Greenville	259
+"Business, Economics and Finance - Service Industries - Barbers"	258
+Religion - Denominations	258
+Military and War - Transportation	256
+Places - United States - Texas - Dallam County	256
+Places - United States - Texas - San Saba County	255
+Agriculture - Domestic Animals - Sheep	252
+"Business, Economics and Finance - Oil and Gas - Oil Fields"	252
+Places - United States - Ohio	249
+Places - United States - Texas - Dimmit County	249
+Sports and Recreation - Bowling	249
+"Business, Economics and Finance - Motels"	246
+Places - United States - Texas - Live Oak County	245
+Places - United States - Texas - Dickens County	244
+Places - United States - Texas - Reeves County - Pecos	244
+Places - United States - Illinois	239
+Arts and Crafts - Crafts - Pottery	236
+Government and Law - Legal Documents - Land Grants	235
+Places - United States - Texas - Andrews County	234
+Places - Republic of Texas	229
+Landscape and Nature - Canyons	227
+Military and War - Wars - Cold War	226
+Literature - Fiction	224
+People - Ethnic Groups - Russians	221
+People - Individuals - Lorenzo de Zavala	218
+Architecture - Landmarks - Alamo	217
+Landscape and Nature - Natural Disasters	216
+Government and Law - Legal Documents - Divorces	215
+Places - United States - Texas - Hansford County	215
+Places - United States - Texas - Sabine County	214
+Places - United States - Texas - Mitchell County	212
+People - Ethnic Groups - Japanese	211
+Agriculture - Ranching - Cattle Brands	210
+"Business, Economics and Finance - Stores - Meat Markets"	210
+Places - Asia	209
+People - Individuals - Mary Jones	208
+Places - United States - Texas - Real County	206
+Places - United States - Texas - Tom Green County - San Angelo	204
+Places - United States - Texas - Scurry County	201
+Arts and Crafts - Crafts - Metalwork	200
+"Business, Economics and Finance - Transportation - Trolleys"	200
+Places - United States - Texas - Jasper County - Jasper	199
+Social Life and Customs - Clubs and Organizations - Young Men's Christian Association (YMCA)	199
+Sports and Recreation - Gymnastics	198
+Places - United States - Colorado	197
+"Business, Economics and Finance - Stores - Bakeries"	196
+Places - United States - Texas - Coke County	194
+Places - Oceania	193
+Military and War - Weapons - Cannons	191
+Places - United States - Texas - Hartley County	191
+Places - United States - Texas - Concho County	187
+Places - United States - Texas - Moore County	186
+"Business, Economics and Finance - Stores - Hardware Stores"	181
+Agriculture - Farming - Beets	180
+Education - Colleges and Universities - Western Texas College	180
+Places - United States - Texas - Upton County	180
+"Business, Economics and Finance - Stores - Lumber Yards"	179
+Literature - Folklore	179
+Agriculture - Processing and Storage - Meat Packing	175
+Places - United States - Arkansas	175
+Sports and Recreation - Softball	170
+Government and Law - State Capitols	169
+Places - United States - Texas - Armstrong County	169
+Places - United States - Texas - Crane County	169
+Agriculture - Farming - Sorghum	166
+Agriculture - Processing and Storage - Grain Elevators	166
+Places - United States - Texas - Foard County	166
+Places - United States - Texas - McMullen County	165
+Places - United States - Texas - Somervell County	165
+Places - United States - Texas - Irion County	164
+People - Ethnic Groups - Jews	162
+Places - United States - Texas - Terry County	161
+Literature - Children's	158
+Social Life and Customs - Clubs and Organizations - Girl Scouts	158
+Agriculture - Domestic Animals - Poultry - Turkeys	155
+People - Ethnic Groups - American Indians - Comanches	155
+Agriculture - Farm Equipment - Irrigation	153
+Places - United States - Texas - Shackelford County - Fort Griffin	153
+Education - Colleges and Universities - Southwestern University	152
+Education - Colleges and Universities - Texas Woman's University	152
+Places - United States - Texas - Castro County	151
+"Business, Economics and Finance - Oil and Gas - Gas Wells"	150
+"Business, Economics and Finance - Shipping - Wharves"	150
+Agriculture - Domestic Animals - Goats	149
+"Business, Economics and Finance - Oil and Gas - Companies - Gulf Oil"	149
+Military and War - United States Armed Forces - United States Coast Guard	149
+Places	149
+Places - United States - Oregon	149
+Religion - Denominations - Methodist Episcopal	149
+"Business, Economics and Finance - Commercial Fishing"	148
+Places - Cuba	147
+Places - United States - Texas - Ellis County - Ferris	146
+"Business, Economics and Finance - Oil and Gas - Companies - Texas Company (Texaco)"	145
+Places - United States - Texas - Jeff Davis County - Fort Davis	143
+Places - United States - Texas - San Augustine County - San Augustine	143
+Places - United States - Texas - Sterling County	143
+Places - United States - Texas - Sherman County	141
+"Business, Economics and Finance - Oil and Gas - Companies - Shell Oil"	139
+Education - Colleges and Universities - Bishop College	139
+Places - United States - Texas - King County	139
+Places - United States - Texas - Yoakum County	139
+Social Life and Customs - Clubs and Organizations - American Fisheries Society	139
+Places - United States - Texas - Glasscock County	136
+Social Life and Customs - Furnishings - Utensils	135
+Education - Colleges and Universities - South Plains College	134
+Agriculture - Domestic Animals - Donkeys	133
+Government and Law - Vital Records	133
+Sports and Recreation - Ice Skating	133
+Places - United States - Missouri	131
+Places - United States - Texas - Roberts County	131
+Social Life and Customs - Clubs and Organizations - Ku Klux Klan	131
+Social Life and Customs - Clubs and Organizations - 4-H	130
+"Business, Economics and Finance - Stores - Appliance Stores"	128
+Places - United States - Iowa	128
+Places - United States - Texas - Matagorda County - Matagorda	128
+Arts and Crafts - Crafts - Fiber Arts - Weaving	126
+Sports and Recreation - Riding - Bulls	126
+Places - United States - Texas - Parmer County	124
+Places - United States - Florida	120
+Places - United States - Texas - Borden County	118
+Government and Law - City Charters	117
+Places - United States - Georgia	117
+Places - Mexico - Chihuahua - Ciudad Juárez	115
+Places - United States - Texas - Colorado County - Columbus	112
+Places - United States - Alabama	111
+Places - United States - Tennessee	111
+Social Life and Customs - Customs - Holidays - Valentines Day	111
+Places - United States - Texas - Bailey County	109
+Agriculture - Farm Equipment - Threshers	107
+Places - United States - Texas - Denton County - The Colony	107
+Places - United States - Texas - Bosque County - Valley Mills	106
+Sports and Recreation - Wrestling	103
+People - Ethnic Groups - Koreans	102
+Places - United States - Indiana	101
+Places - United States - Texas - Fort Bend County - Rosenberg	101
+Social Life and Customs - Furnishings - Linens	101
+"Business, Economics and Finance - Factories - Foundries"	100
+Places - United States - Washington	100
+People - Ethnic Groups - Poles	99
+People - Ethnic Groups - American Indians - Coushattas	98
+Places - United States - Texas - Brazoria County - Brazoria	98
+People - Ethnic Groups - Irish	97
+Places - United States - Kansas	96
+Landscape and Nature - Fossils	95
+Places - United States - Texas - Loving County	95
+Arts and Crafts - Crafts - Stained Glass	93
+Places - United States - Oklahoma - Texas County	93
+Places - United States - Texas - Denton County - Aubrey	93
+Places - United States - Texas - Mitchell County - Colorado City	93
+Social Life and Customs - Clubs and Organizations - Rotary	93
+Sports and Recreation - Fencing	93
+Places - United States - Minnesota	91
+Places - United States - Wisconsin	91
+Religion - Missions - San Jose	91
+Social Life and Customs - Pets - Fish	91
+Places - United States - North Carolina	90
+Agriculture - Farming - Aquaculture	87
+Religion - Churches - Records - Baptisms	87
+Agriculture - Farming - Rice	86
+Agriculture - Ranching - Cattle Trails	84
+People - Ethnic Groups - English	84
+Education - Colleges and Universities - Austin College	83
+Agriculture - Farming - Pecans	81
+Religion - Temples	81
+Places - United States - Texas - Milam County - Cameron	80
+Religion - Churches - Records	79
+Places - United States - South Carolina	77
+People - Ethnic Groups - French	76
+People - Individuals - Sarah T. Hughes	76
+Places - United States - Tennessee - Davidson County - Nashville	76
+Government and Law - Civil Servants - Civilian Conservation Corps	75
+Places - United States - Virginia	74
+Social Life and Customs - Clubs and Organizations - Elks Lodge	72
+Social Life and Customs - Furnishings - Rugs	72
+People - Ethnic Groups - Italians	71
+Places - United States - Nebraska	71
+Religion - Missions - Concepcion	70
+Social Life and Customs - Clubs and Organizations - Parent Teacher Association (PTA)	69
+Social Life and Customs - Customs - Holidays - St. Patrick's Day	68
+Places - United States - Massachusetts	67
+People - Ethnic Groups - American Indians - Cherokees	66
+Places - United States - Alaska	66
+Education - Diplomas	62
+People - Ethnic Groups - American Indians - Alabamas	61
+People - Ethnic Groups - Indians	60
+Places - United States - Michigan	60
+Agriculture - Stock Tanks	59
+People - Individuals - Antonio Lopez de Santa Anna	59
+Places - United States - Pennsylvania	59
+Sports and Recreation - Billiards	59
+Places - United States - Midwestern Region	58
+Social Life and Customs - Clubs and Organizations - Camp Fire Girls	58
+People - Ethnic Groups - American Indians - Sioux	57
+Places - United States - Texas - Dallas County - Mesquite	57
+Agriculture - Farming - Potatoes	56
+Places - France	56
+Government and Law - Law Enforcement - Constables	55
+Places - United States - Arizona	55
+Sports and Recreation - Riding - Donkeys	55
+Agriculture - Farming - Peanuts	54
+People - Individuals - Sam Houston	53
+Religion - Denominations - Islam	53
+Places - United States - Texas - Fort Bend County - Richmond	52
+Military and War - Presidios	50
+Places - United States - Hawaii	50
+Places - United States - Mississippi	50
+Religion - Denominations - Cistercians	49
+Sports and Recreation - Badminton	49
+Agriculture - Farm Equipment - Scythes	48
+Places - United States - Nevada	48
+Places - United States - Northeast Region	48
+People - Individuals - Sam Rayburn	46
+Education - Colleges and Universities - El Centro College	45
+Education - Colleges and Universities - North Lake College	45
+Places - United States - Utah	45
+Landscape and Nature - Natural Disasters - Dust Storms	44
+Places - United States - West Virginia	44
+Places - United States - Wyoming	44
+Religion - Missions - San Antonio de Valero (Alamo)	44
+Sports and Recreation - Karate	44
+Sports and Recreation - Rowing	44
+Places - Mexico - Chihuahua	43
+Places - United States - Texas - Somervell County - Glen Rose	43
+Sports and Recreation - Riding	43
+Education - Colleges and Universities - Richland College	42
+Places - Canada - British Columbia	42
+Places - United States - Texas - Brazoria County - Columbia	41
+Education - Colleges and Universities - Eastfield College	40
+Arts and Crafts - Crafts - Fiber Arts - Spinning	39
+Places - United States - Western Region	39
+People - Individuals - Stephen F. Austin	38
+Places - United States - Maryland	38
+Places - United States - Southern Region	38
+People - Ethnic Groups - American Indians - Kiowas	37
+Places - United States - Kentucky	37
+Places - United States - Montana	37
+Places - United States - Idaho	36
+Places - United States - New Jersey	36
+Sports and Recreation - Ping Pong	36
+Education - Colleges and Universities - Mountain View College	35
+Places - Canada - Ontario	35
+Sports and Recreation - Scuba Diving	35
+Landscape and Nature - Water - Bayous	34
+Sports and Recreation - Riding - Mules	34
+"Business, Economics and Finance - Service Industries - Tailors"	33
+Places - United States - Texas - Denton County - Flower Mound	33
+People - Ethnic Groups - American Indians - Apaches	32
+Places - United States - North Dakota	32
+"Business, Economics and Finance - Oil and Gas - Oil Fields - Spindletop"	31
+Places - United States - South Dakota	31
+Religion - Mosques	31
+Agriculture - Farming - Soybeans	30
+Religion - Denominations - Mormons	29
+Military and War - Wars - Spanish American War	28
+Social Life and Customs - Clubs and Organizations - Future Farmers of America (FFA)	28
+Arts and Crafts - Crafts - Fiber Arts - Knitting	26
+Places - United States - Maine	26
+Places - France - Paris	25
+Places - Canada - Quebec	24
+Places - United States - Texas - Harris County - La Porte	24
+Social Life and Customs - Clubs and Organizations - Young Women's Christian Association (YWCA)	24
+Education - Colleges and Universities - Cedar Valley College	22
+People - Ethnic Groups - American Indians - Caddos	22
+Places - United States - Connecticut	21
+Places - United States - Texas - Galveston County - Hitchcock	21
+"Business, Economics and Finance - Oil and Gas - Companies - Phillips 66"	20
+People - Ethnic Groups - Spaniards	20
+Places - Mexico - Coahuila	20
+Places - United States - Rhode Island	20
+Places - United States - New Mexico - Luna County - Columbus	19
+Places - United States - Delaware	18
+People - Ethnic Groups - American Indians - Choctaws	17
+People - Ethnic Groups - American Indians - Karankawas	17
+People - Ethnic Groups - Pakistanis	17
+Places - Spain	17
+Military and War - Forts - Fort Travis	16
+Places - Canada - Alberta	16
+Places - United States - Oklahoma - Beaver County	16
+Places - United States - Oklahoma - McCurtain County	16
+Places - United States - Vermont	16
+Social Life and Customs - Clubs and Organizations - American Quarter Horse Association	16
+Social Life and Customs - Clubs and Organizations - Old Settlers Associations	16
+Education - Colleges and Universities - Clarendon College	15
+People - Individuals - Adina de Zavala	15
+Places - United States - New Hampshire	15
+Places - United States - Texas - Hill County - Itasca	15
+Social Life and Customs - Clubs and Organizations - Independent Order of Odd Fellows	15
+Military and War - Forts - Fort McIntosh	14
+Places - Canada - Nova Scotia	14
+"Business, Economics and Finance - Service Industries - Liveries"	13
+People - Ethnic Groups - American Indians - Shawnees	13
+Places - Canada - Saskatchewan	13
+Education - Colleges and Universities - Brookhaven College	12
+Places - Canada - New Brunswick	12
+Places - Mexico - Nuevo León	12
+Places - United States - Oklahoma - Bryan County	12
+Places - United States - Oklahoma - Love County	12
+Places - United States - Texas - Hamilton County - Carlton	12
+People - Individuals - Jane Long	11
+Places - Canada - Newfoundland	11
+Sports and Recreation - Off Roading	11
+People - Ethnic Groups - American Indians - Tiguex	10
+Places - Mexico - Tamaulipas	10
+Places - United States - Oklahoma - Ellis County	10
+Places - United States - Oklahoma - Harmon County	10
+Places - United States - Texas - Denton County - Lewisville	10
+Places - United States - Texas - Grayson County - Collinsville	10
+People - Ethnic Groups - American Indians - Wichitas	9
+Science and Technology - Tools - Turnbuckles	9
+People - Ethnic Groups - American Indians - Atakapans	8
+People - Individuals - David Crockett	8
+People - Individuals - Robert E. Lee	8
+Places - Canada - Manitoba	8
+Places - United States - Oklahoma - Beckham County	8
+Places - United States - Oklahoma - Jackson County	8
+Places - United States - Oklahoma - Jefferson County	8
+Places - United States - Oklahoma - Roger Mills County	8
+People - Ethnic Groups - American Indians - Kickapoos	7
+People - Ethnic Groups - American Indians - Tonkawas	7
+Places - United States - Oklahoma - Choctaw County	7
+Places - United States - Territories	7
+Sports and Recreation - Games - Marbles	7
+Places - United States - New Mexico - Luna County	6
+Places - United States - Oklahoma - Marshall County	6
+Places - United States - Oklahoma - Tillman County	6
+Places - United States - Texas - Denton County - Little Elm	6
+Religion - Missions - San Juan	6
+Education - Colleges and Universities - Southwestern Christian College	5
+People - Ethnic Groups - American Indians - Jumanos	5
+People - Ethnic Groups - American Indians - Osage	5
+People - Individuals - Anson Jones	5
+Places - Canada - Prince Edward Island	5
+Places - Spain - Mexico	5
+Places - United States - Texas - Robertson County - Calvert	5
+People - Ethnic Groups - American Indians - Cheyenne	4
+People - Ethnic Groups - American Indians - Chickasaws	4
+People - Individuals - Emily West	4
+People - Individuals - General Olinto Barsanti	4
+People - Individuals - Mirabeau Lamar	4
+Places - United States - Oklahoma - Cotton County	4
+Places - United States - Oklahoma - Tulsa County	4
+Places - United States - Texas - Denton County - Roanoke	4
+Places - United States - Texas - Wise County - Alvord	4
+"Business, Economics and Finance - Oil and Gas - Oil Fields - Ranger Oil Field"	3
+People - Ethnic Groups - American Indians - Coahuiltecans	3
+People - Individuals - La Salle	3
+Places - United States - Territories - Indian Territory	3
+Places - United States - Texas - Denton County - Argyle	3
+People - Ethnic Groups - American Indians - Creeks	2
+People - Ethnic Groups - American Indians - Delawares	2
+People - Ethnic Groups - American Indians - Pawnees	2
+Places - United States - Oklahoma - Carter County	2
+Places - United States - Texas - Denton County - Ponder	2
+Education - Colleges and Universities - St. Mary's University	1
+People - Ethnic Groups - American Indians - Deadose	1
+People - Ethnic Groups - American Indians - Otoe	1
+Places - United States - Oklahoma - Comanche County	1
+Places - United States - Oklahoma - Johnston County	1
+Places - United States - Oklahoma - Logan County	1
+Places - United States - Oklahoma - Osage County	1
+Places - United States - Oklahoma - Payne County	1
+Places - United States - Territories - Oklahoma Territory	1
+Places - United States - Texas - Houston County - Crockett	1
+Places - United States - Texas - Hutchinson County - Whittenburg	1
+"Sinkin, William, 1913-"	1

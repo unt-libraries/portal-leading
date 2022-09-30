@@ -1,0 +1,87 @@
+Term	CollocationCount
+"Business, Economics and Finance - Communications - Media"	245585
+"Business, Economics and Finance - Transportation - Automobiles"	9855
+"Business, Economics and Finance - Transportation - Accidents"	7169
+"Business, Economics and Finance - Transportation - Aviation - Airplanes"	6700
+"Business, Economics and Finance - Medicine - Hospitals"	5041
+"Business, Economics and Finance - Advertising"	4028
+"Business, Economics and Finance - Medicine - Doctors"	2658
+"Business, Economics and Finance - Finance - Banks"	2569
+"Business, Economics and Finance"	2275
+"Business, Economics and Finance - Medicine"	2106
+"Business, Economics and Finance - Communications - Newspapers"	1985
+"Business, Economics and Finance - Stores"	1938
+"Business, Economics and Finance - Oil and Gas"	1830
+"Business, Economics and Finance - Transportation - Buses"	1801
+"Business, Economics and Finance - Transportation - Aviation"	1648
+"Business, Economics and Finance - Hotels"	1584
+"Business, Economics and Finance - Journalism"	1571
+"Business, Economics and Finance - Transportation - Railroads - Trains"	1562
+"Business, Economics and Finance - Communications - Telephones"	1519
+"Business, Economics and Finance - Finance"	1358
+"Business, Economics and Finance - Transportation - Aviation - Helicopters"	1321
+"Business, Economics and Finance - Stores - Grocery Stores"	1316
+"Business, Economics and Finance - Transportation - Trucks"	1225
+"Business, Economics and Finance - Transportation - Boats"	1074
+"Business, Economics and Finance - Insurance"	1013
+"Business, Economics and Finance - Medicine - Nurses"	949
+"Business, Economics and Finance - Oil and Gas - Stations"	877
+"Business, Economics and Finance - Restaurants"	796
+"Business, Economics and Finance - Real Estate"	790
+"Business, Economics and Finance - Service Industries - Photography"	774
+"Business, Economics and Finance - Transportation"	706
+"Business, Economics and Finance - Stores - Department Stores"	697
+"Business, Economics and Finance - Transportation - Trucks - Commercial"	669
+"Business, Economics and Finance - Transportation - Railroads"	667
+"Business, Economics and Finance - Factories"	641
+"Business, Economics and Finance - Saloons, Bars, Taverns"	557
+"Business, Economics and Finance - Oil and Gas - Companies"	540
+"Business, Economics and Finance - Oil and Gas - Refineries"	478
+"Business, Economics and Finance - Tourism"	468
+"Business, Economics and Finance - Theatres"	453
+"Business, Economics and Finance - Transportation - Motorcycles"	432
+"Business, Economics and Finance - Electricity"	411
+"Business, Economics and Finance - Oil and Gas - Companies - Humble Oil"	394
+"Business, Economics and Finance - Electricity - Power Plants"	369
+"Business, Economics and Finance - Service Industries"	349
+"Business, Economics and Finance - Stores - Clothing Stores"	347
+"Business, Economics and Finance - Transportation - Ships"	297
+"Business, Economics and Finance - Electricity - Companies"	272
+"Business, Economics and Finance - Oil and Gas - Companies - Lone Star Gas"	272
+"Business, Economics and Finance - Stores - Pharmacies"	251
+"Business, Economics and Finance - Medicine - Red Cross"	250
+"Business, Economics and Finance - Stores - Jewelry Stores"	208
+"Business, Economics and Finance - Medicine - Nursing Homes"	194
+"Business, Economics and Finance - Motels"	188
+"Business, Economics and Finance - Medicine - Dentists"	181
+"Business, Economics and Finance - Oil and Gas - Oil Wells"	162
+"Business, Economics and Finance - Communications"	145
+"Business, Economics and Finance - Stores - Meat Markets"	141
+"Business, Economics and Finance - Stores - Furniture Stores"	138
+"Business, Economics and Finance - Shipping"	112
+"Business, Economics and Finance - Transportation - Horse-Drawn Vehicles"	110
+"Business, Economics and Finance - Stores - General Stores"	107
+"Business, Economics and Finance - Service Industries - Funeral Homes"	104
+"Business, Economics and Finance - Oil and Gas - Oil Fields"	95
+"Business, Economics and Finance - Stores - Farmers' Markets"	93
+"Business, Economics and Finance - Oil and Gas - Gas Wells"	85
+"Business, Economics and Finance - Service Industries - Barbers"	85
+"Business, Economics and Finance - Stores - Appliance Stores"	85
+"Business, Economics and Finance - Factories - Foundries"	84
+"Business, Economics and Finance - Oil and Gas - Companies - Shell Oil"	71
+"Business, Economics and Finance - Stores - Bakeries"	71
+"Business, Economics and Finance - Commercial Fishing"	67
+"Business, Economics and Finance - Mining"	66
+"Business, Economics and Finance - Oil and Gas - Companies - Texas Company (Texaco)"	57
+"Business, Economics and Finance - Transportation - Railroads - Depots"	51
+"Business, Economics and Finance - Stores - Hardware Stores"	49
+"Business, Economics and Finance - Oil and Gas - Companies - Gulf Oil"	48
+"Business, Economics and Finance - Stores - Lumber Yards"	39
+"Business, Economics and Finance - Transportation - Trolleys"	35
+"Business, Economics and Finance - Service Industries - Printing"	24
+"Business, Economics and Finance - Transportation - Animal-Drawn Vehicles"	19
+"Business, Economics and Finance - Oil and Gas - Companies - Phillips 66"	15
+"Business, Economics and Finance - Shipping - Wharves"	11
+"Business, Economics and Finance - Service Industries - Tailors"	8
+"Business, Economics and Finance - Oil and Gas - Oil Fields - Spindletop"	6
+"Business, Economics and Finance - Logging"	5

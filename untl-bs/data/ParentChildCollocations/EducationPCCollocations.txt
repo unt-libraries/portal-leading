@@ -1,0 +1,27 @@
+Term	CollocationCount
+Education	5970
+Education - Colleges and Universities - University of North Texas	1505
+Education - Schools - Students	325
+Education - Schools - Teachers	216
+Education - Schools	164
+Education - Schools - Classes	129
+Education - Colleges and Universities - Faculty and Staff	78
+Education - Schools - Buildings	47
+Education - Events	34
+Education - Colleges and Universities	22
+Education - Schools - Principals	15
+Education - Alumni	8
+Education - Colleges and Universities - Texas Christian University	8
+Education - Colleges and Universities - University of Texas	8
+Education - Schools - Cheerleaders	4
+Education - Textbooks	4
+Education - Colleges and Universities - Baylor University	2
+Education - Colleges and Universities - Southern Methodist University	2
+Education - Colleges and Universities - Texas Woman's University	2
+Education - Commencement	2
+Education - Yearbooks	2
+Education - Colleges and Universities - Bishop College	1
+Education - Colleges and Universities - Eastfield College	1
+Education - Colleges and Universities - Texas A&M University	1
+Education - Colleges and Universities - University of Texas at Arlington	1
+Education - Diplomas	1

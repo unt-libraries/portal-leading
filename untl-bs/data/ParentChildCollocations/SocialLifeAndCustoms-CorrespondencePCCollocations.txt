@@ -1,0 +1,69 @@
+Term	CollocationCount
+Social Life and Customs - Correspondence	47875
+Social Life and Customs - Travel	2239
+Social Life and Customs - Clubs and Organizations	1700
+Social Life and Customs - Meetings and Conferences	1280
+Social Life and Customs - Families	672
+Social Life and Customs - Customs - Holidays - Christmas	324
+Social Life and Customs - Popular Culture - Magazines	179
+Social Life and Customs - Awards	178
+Social Life and Customs - Food and Cooking	168
+Social Life and Customs - Slavery	141
+Social Life and Customs - Clothing	131
+Social Life and Customs - Fairs and Exhibitions	130
+Social Life and Customs - Customs - Reunions	129
+Social Life and Customs	118
+Social Life and Customs - Customs - Weddings	102
+Social Life and Customs - Customs - Celebrations	100
+Social Life and Customs - Customs - Parties	99
+Social Life and Customs - Food and Cooking - Dining	90
+Social Life and Customs - Customs - Birthdays	84
+Social Life and Customs - Homes	69
+Social Life and Customs - Furnishings - Kitchenware	64
+Social Life and Customs - Customs - Funerals	58
+Social Life and Customs - Customs - Holidays	54
+Social Life and Customs - Customs - Anniversaries	45
+Social Life and Customs - Clothing - Accessories	41
+Social Life and Customs - Customs - Holidays - Thanksgiving	36
+Social Life and Customs - Furnishings	24
+Social Life and Customs - Customs - Holidays - Easter	21
+Social Life and Customs - Customs	20
+Social Life and Customs - Customs - Funerals - Cemeteries	20
+Social Life and Customs - Competitions	19
+Social Life and Customs - Customs - Parades	18
+Social Life and Customs - Popular Culture - Television	18
+Social Life and Customs - Customs - Picnics	16
+Social Life and Customs - Furnishings - Furniture	16
+Social Life and Customs - Pets - Dogs	16
+Social Life and Customs - Clothing - Accessories - Shoes	14
+Social Life and Customs - Customs - Holidays - Valentines Day	14
+Social Life and Customs - Clothing - Accessories - Hats	11
+Social Life and Customs - Clubs and Organizations - Boy Scouts	9
+Social Life and Customs - Toys	9
+Social Life and Customs - Clubs and Organizations - Masons	8
+Social Life and Customs - Food and Cooking - Nutrition	8
+Social Life and Customs - Firearms	7
+Social Life and Customs - Furnishings - Rugs	7
+Social Life and Customs - Clubs and Organizations - Fraternities	6
+Social Life and Customs - Customs - Festivals	6
+Social Life and Customs - Clubs and Organizations - Parent Teacher Association (PTA)	5
+Social Life and Customs - Clubs and Organizations - Rotary	5
+Social Life and Customs - Clubs and Organizations - Young Men's Christian Association (YMCA)	5
+Social Life and Customs - Furnishings - Utensils	5
+Social Life and Customs - Pets - Cats	5
+Social Life and Customs - Clubs and Organizations - Ku Klux Klan	4
+Social Life and Customs - Customs - Holidays - Independence Day	4
+Social Life and Customs - Clubs and Organizations - Sororities	3
+Social Life and Customs - Competitions - Beauty Pageants	3
+Social Life and Customs - Group Homes	3
+Social Life and Customs - Clubs and Organizations - 4-H	2
+Social Life and Customs - Clubs and Organizations - Elks Lodge	2
+Social Life and Customs - Clubs and Organizations - Links	2
+Social Life and Customs - Customs - Holidays - Kwanzaa	2
+Social Life and Customs - Furnishings - Dishes	2
+Social Life and Customs - Hobbies - Collections	2
+Social Life and Customs - Popular Culture	2
+Social Life and Customs - Clubs and Organizations - Girl Scouts	1
+Social Life and Customs - Clubs and Organizations - Independent Order of Odd Fellows	1
+Social Life and Customs - Customs - Holidays - Halloween	1
+Social Life and Customs - Hobbies	1

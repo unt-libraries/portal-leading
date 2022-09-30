@@ -1,0 +1,39 @@
+Term	CollocationCount
+Education - Schools	8423
+Education - Schools - Students	1109
+Education - Schools - Teachers	618
+Education - Colleges and Universities - Concordia University Texas	563
+Education - Yearbooks	474
+Education - Schools - Classes	208
+Education - Colleges and Universities - University of North Texas	171
+Education	164
+Education - Schools - Buildings	146
+Education - Colleges and Universities	92
+Education - Schools - Principals	70
+Education - Events	49
+Education - Colleges and Universities - Texas Christian University	30
+Education - Schools - Cheerleaders	28
+Education - Colleges and Universities - University of Texas	27
+Education - Commencement	23
+Education - Textbooks	23
+Education - Colleges and Universities - Hardin-Simmons University	15
+Education - Colleges and Universities - Southern Methodist University	14
+Education - Colleges and Universities - Faculty and Staff	12
+Education - Colleges and Universities - Baylor University	10
+Education - Colleges and Universities - Texas A&M University	8
+Education - Colleges and Universities - University of Texas at Arlington	8
+Education - Events - Homecoming	8
+Education - Colleges and Universities - McMurry University	7
+Education - Alumni	5
+Education - Colleges and Universities - Abilene Christian University	5
+Education - Colleges and Universities - Rice University	5
+Education - Colleges and Universities - Texas Woman's University	4
+Education - Colleges and Universities - Bishop College	3
+Education - Colleges and Universities - Southwestern University	3
+Education - Diplomas	3
+Education - Colleges and Universities - Richland College	2
+Education - Colleges and Universities - Texas Tech University	2
+Education - Colleges and Universities - Austin College	1
+Education - Colleges and Universities - El Centro College	1
+Education - Colleges and Universities - Temple College	1
+Education - Colleges and Universities - Texas State University	1
