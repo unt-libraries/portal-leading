@@ -108,3 +108,10 @@ dc_type
 dc_subject.UNTL-BS_count
 dc_subject_facet
 dc_subject_count
+
+---------------
+?q=*:*&fq=(aubrey_system:PTH+OR+untl_institution:UNTA)+AND+dc_rights_access:public
+fq=dc_subject.UNTL-BS_facet:%22Agriculture+-+Domestic+Animals%22
+fl=aubrey_identifier,display_title,dc_description,dc_subject
+wt=csv
+rows=100
