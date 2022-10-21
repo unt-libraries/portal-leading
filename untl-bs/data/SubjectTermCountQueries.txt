@@ -12,6 +12,8 @@ https://digital.library.unt.edu/solrparse/raw/?q=*:*
 &rows=0
 &qt=internal
 
+-------------------------------------------------
+
 ALL UNTL-BS TERMS VISIBLE ON PORTAL
 https://digital.library.unt.edu/solrparse/raw/?q=*:*
 &fq=(aubrey_system:PTH+OR+untl_institution:UNTA)
@@ -25,6 +27,10 @@ https://digital.library.unt.edu/solrparse/raw/?q=*:*
 &indent=on
 &rows=0
 &qt=internal
+
+10/21/22: 1,076
+
+-------------------------------------------------
 
 ALL KWDS VISIBLE ON PORTAL
 https://digital.library.unt.edu/solrparse/raw/?q=*:*
@@ -40,6 +46,8 @@ https://digital.library.unt.edu/solrparse/raw/?q=*:*
 &rows=0
 &qt=internal
 
+-------------------------------------------------
+
 ALL ITEMS ON PORTAL
 https://digital.library.unt.edu/solrparse/raw/?q=*:*
 &fq=(aubrey_system:PTH+OR+untl_institution:UNTA)
@@ -53,6 +61,8 @@ https://digital.library.unt.edu/solrparse/raw/?q=*:*
 &indent=on
 &rows=0
 &qt=internal
+
+-------------------------------------------------
 
 ALL ITEMS ON PORTAL WITH UNTL-BS TERMS
 https://digital.library.unt.edu/solrparse/raw/?q=*:*
