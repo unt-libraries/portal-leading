@@ -1,25 +1,25 @@
-Agriculture – Domestic Animals (+SvU, PCC)
-Agriculture – Domestic Animals – Cattle (+SvU)
-Agriculture – Domestic Animals – Horses (+SvU)
-Architecture – Buildings (+SvU, +OA, PCC)
-Arts and Crafts – Music (+SvU, +OA, -RA, PCC)
-Arts and Crafts – Theatre (+SvU, PCC)
-Business, Economics and Finance - Advertising (+SvU, +OA, PCC)
-Business, Economics and Finance - Communications – Media (+SvU, +OA, PCC)
-Business, Economics and Finance - Communications – Newspapers (+SvU, +OA, -RA, PCC)
-Business, Economics and Finance – Journalism (+SvU, +OA, PCC)
-Education - Colleges and Universities - Faculty and Staff (+OA, PCC)
-Education - Colleges and Universities - University of North Texas (+OA, PCC)
-Education – Schools – Students (+SvU, +OA, PCC)
-Government and Law - Texas Laws and Regulations (+OA, PCC)
-Landscape and Nature – Geography and Maps (+SvU, +OA, -RA, PCC)
-Military and War – Personnel (+SvU, PCC)
-People – Ethnic Groups – African Americans (+SvU, +OA, PCC)
-People – Groups (+SvU)
-People – Individuals (+SvU, +OA, PCC)
-Places - United States - Texas - Harris County (+OA, PCC)
-Science and Technology (+SvU, PCC)
-Social Life and Customs (+OA, PCC)
-Social Life and Customs – Clubs and Organizations (+SvU, +OA, PCC)
-Social Life and Customs – Correspondence (+SvU, +OA, -RA, PCC)
-Sports and Recreation – Football (+SvU)
+Agriculture - Domestic Animals
+Agriculture - Domestic Animals - Cattle
+Agriculture - Domestic Animals - Horses
+Architecture - Buildings
+Arts and Crafts - Music
+Arts and Crafts - Theatre
+Business, Economics and Finance - Advertising
+Business, Economics and Finance - Communications - Media
+Business, Economics and Finance - Communications - Newspapers
+Business, Economics and Finance - Journalism
+Education - Colleges and Universities - Faculty and Staff
+Education - Colleges and Universities - University of North Texas
+Education - Schools - Students
+Government and Law - Texas Laws and Regulations
+Landscape and Nature - Geography and Maps
+Military and War - Personnel
+People - Ethnic Groups - African Americans
+People - Groups
+People - Individuals
+Places - United States - Texas - Harris County
+Science and Technology
+Social Life and Customs
+Social Life and Customs - Clubs and Organizations
+Social Life and Customs - Correspondence
+Sports and Recreation - Football
