@@ -2,8 +2,6 @@ import sys
 import json
 import urllib.request
 
-import requests
-
 if len(sys.argv) != 3:
     print('usage: python3 generate-subject-total-values-json.py <subject-instance-counts.json> "UNTL-BS To Lookup"')
     exit() 
