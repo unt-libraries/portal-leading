@@ -1,0 +1,15 @@
+Term	CollocationCount
+Education - Colleges and Universities	3
+Education - Colleges and Universities - Faculty and Staff	896
+Education - Colleges and Universities - Southern Methodist University	2
+Education - Colleges and Universities - Tarrant County College	1
+Education - Colleges and Universities - Texas Christian University	1
+Education - Colleges and Universities - University of Dallas	982
+Education - Colleges and Universities - University of North Texas	4
+Education - Colleges and Universities - University of Texas	1
+Education - Commencement	1
+Education - Events	1
+Education - Schools - Buildings	8
+Education - Schools - Classes	1
+Education - Schools - Students	904
+Education - Schools - Teachers	3

@@ -1,0 +1,53 @@
+Term	CollocationCount
+Places - Canada	1
+Places - Mexico	3
+Places - Mexico - Texas	1
+Places - North America	2
+Places - United States	15
+Places - United States - Alabama	3
+Places - United States - Arizona	6
+Places - United States - Arkansas	37
+Places - United States - California	8
+Places - United States - Colorado	10
+Places - United States - Florida	2
+Places - United States - Georgia	1
+Places - United States - Idaho	1
+Places - United States - Illinois	3
+Places - United States - Indiana	2
+Places - United States - Iowa	3
+Places - United States - Kansas	30
+Places - United States - Kentucky	2
+Places - United States - Louisiana	28
+Places - United States - Michigan	1
+Places - United States - Midwestern Region	1
+Places - United States - Minnesota	3
+Places - United States - Mississippi	5
+Places - United States - Missouri	15
+Places - United States - Montana	2
+Places - United States - Nebraska	6
+Places - United States - Nevada	2
+Places - United States - New Jersey	1
+Places - United States - New Mexico	33
+Places - United States - North Dakota	3
+Places - United States - Ohio	1
+Places - United States - Oklahoma	697
+Places - United States - Oregon	2
+Places - United States - Pennsylvania	1
+Places - United States - South Dakota	4
+Places - United States - Southern Region	2
+Places - United States - Tennessee	2
+Places - United States - Territories - Indian Territory	2
+Places - United States - Texas	570
+Places - United States - Texas - Dallas County - Dallas	4
+Places - United States - Texas - Deaf Smith County	2
+Places - United States - Texas - Fort Bend County	1
+Places - United States - Texas - Galveston County	1
+Places - United States - Texas - Galveston County - Galveston	4
+Places - United States - Texas - Grayson County	1
+Places - United States - Texas - Harris County - Houston	1
+Places - United States - Texas - Potter County - Amarillo	1
+Places - United States - Texas - Tarrant County - Fort Worth	3
+Places - United States - Texas - Taylor County - Abilene	51
+Places - United States - Utah	2
+Places - United States - Washington	2
+Places - United States - Wyoming	3

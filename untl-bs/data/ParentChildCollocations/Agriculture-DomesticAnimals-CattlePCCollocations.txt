@@ -1,0 +1,46 @@
+Term	CollocationCount
+Agriculture	21
+Agriculture - Domestic Animals	17
+Agriculture - Domestic Animals - Cattle	4496
+Agriculture - Domestic Animals - Donkeys	5
+Agriculture - Domestic Animals - Goats	11
+Agriculture - Domestic Animals - Horses	306
+Agriculture - Domestic Animals - Horses - Tack	36
+Agriculture - Domestic Animals - Mules	17
+Agriculture - Domestic Animals - Poultry	43
+Agriculture - Domestic Animals - Poultry - Turkeys	10
+Agriculture - Domestic Animals - Sheep	24
+Agriculture - Domestic Animals - Swine	36
+Agriculture - Farm Equipment	103
+Agriculture - Farm Equipment - Irrigation	7
+Agriculture - Farm Equipment - Plows	13
+Agriculture - Farm Equipment - Threshers	2
+Agriculture - Farm Equipment - Tractors	18
+Agriculture - Farming	147
+Agriculture - Farming - Beets	3
+Agriculture - Farming - Citrus and Fruit	11
+Agriculture - Farming - Corn	27
+Agriculture - Farming - Cotton	49
+Agriculture - Farming - Dairy	68
+Agriculture - Farming - Hay	23
+Agriculture - Farming - Peanuts	2
+Agriculture - Farming - Pecans	3
+Agriculture - Farming - Potatoes	3
+Agriculture - Farming - Rice	2
+Agriculture - Farming - Sorghum	3
+Agriculture - Farming - Soybeans	3
+Agriculture - Farming - Sugarcane	4
+Agriculture - Farming - Vegetables	3
+Agriculture - Farming - Wheat	29
+Agriculture - Processing and Storage	5
+Agriculture - Processing and Storage - Barns	30
+Agriculture - Processing and Storage - Cotton Gins	6
+Agriculture - Processing and Storage - Grain Elevators	5
+Agriculture - Processing and Storage - Meat Packing	27
+Agriculture - Ranching	327
+Agriculture - Ranching - Barbed Wire	32
+Agriculture - Ranching - Cattle Brands	113
+Agriculture - Ranching - Cattle Trails	30
+Agriculture - Ranching - Cowboys	578
+Agriculture - Ranching - Ranches	479
+Agriculture - Stock Tanks	8
