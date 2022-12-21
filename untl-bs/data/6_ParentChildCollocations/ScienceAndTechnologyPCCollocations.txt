@@ -1,0 +1,10 @@
+Term	CollocationCount
+Science and Technology	20916
+Science and Technology - Tools	1311
+Science and Technology - Computers	48
+Science and Technology - Environmentalism	21
+Science and Technology - Space	18
+Science and Technology - Geology	15
+Science and Technology - Chemical Plants	13
+Science and Technology - Biology	11
+Science and Technology - Tools - Turnbuckles	4

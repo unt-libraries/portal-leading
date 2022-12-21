@@ -1,4 +1,0 @@
-Term	CollocationCount
-Literature	1786
-Literature - Poetry	2
-Literature - Children's	1

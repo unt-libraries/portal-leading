@@ -1,0 +1,3 @@
+Term	CollocationCount
+Places - United States - Texas - Dallas County - Dallas	1
+Places - United States - Texas - Dallas County - Irving	949

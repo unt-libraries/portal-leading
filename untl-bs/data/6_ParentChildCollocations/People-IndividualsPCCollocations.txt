@@ -1,0 +1,36 @@
+Term	CollocationCount
+People - Individuals	157766
+People - Ethnic Groups - African Americans	22083
+People - Children	3231
+People - Groups	618
+People - Ethnic Groups	531
+People - Family Groups	201
+People - Ethnic Groups - Hispanics	154
+People - Ethnic Groups - Chinese	93
+People	55
+People - Ethnic Groups - American Indians	47
+People - Groups - Pioneers	33
+People - Ethnic Groups - Germans	24
+People - Individuals - Sam Rayburn	18
+People - Ethnic Groups - American Indians - Comanches	6
+People - Ethnic Groups - American Indians - Sioux	6
+People - Human Remains	6
+People - Ethnic Groups - Japanese	4
+People - Ethnic Groups - Koreans	4
+People - Ethnic Groups - Poles	4
+People - Ethnic Groups - American Indians - Apaches	3
+People - Ethnic Groups - American Indians - Cherokees	3
+People - Ethnic Groups - Jews	3
+People - Ethnic Groups - Russians	3
+People - Individuals - Sam Houston	2
+People - Ethnic Groups - American Indians - Coushattas	1
+People - Ethnic Groups - American Indians - Kiowas	1
+People - Ethnic Groups - American Indians - Osage	1
+People - Ethnic Groups - American Indians - Pawnees	1
+People - Ethnic Groups - English	1
+People - Ethnic Groups - Indians	1
+People - Ethnic Groups - Irish	1
+People - Individuals - Adina de Zavala	1
+People - Individuals - Antonio Lopez de Santa Anna	1
+People - Individuals - David Crockett	1
+People - Individuals - Stephen F. Austin	1

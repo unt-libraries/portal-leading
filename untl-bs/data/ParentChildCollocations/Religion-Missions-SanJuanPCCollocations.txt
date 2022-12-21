@@ -1,3 +1,0 @@
-Term	CollocationCount
-Religion - Missions - San Jose	1
-Religion - Missions - San Juan	6

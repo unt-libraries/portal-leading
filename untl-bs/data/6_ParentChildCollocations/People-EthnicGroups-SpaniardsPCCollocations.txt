@@ -1,0 +1,12 @@
+Term	CollocationCount
+People - Children	2
+People - Ethnic Groups - African Americans	1
+People - Ethnic Groups - American Indians	5
+People - Ethnic Groups - American Indians - Comanches	2
+People - Ethnic Groups - English	3
+People - Ethnic Groups - French	3
+People - Ethnic Groups - Irish	3
+People - Ethnic Groups - Japanese	1
+People - Ethnic Groups - Spaniards	22
+People - Human Remains	2
+People - Individuals - Stephen F. Austin	3

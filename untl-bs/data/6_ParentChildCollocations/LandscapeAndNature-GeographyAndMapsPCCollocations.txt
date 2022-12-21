@@ -1,0 +1,32 @@
+Term	CollocationCount
+Landscape and Nature - Geography and Maps	85332
+Landscape and Nature - Natural Disasters - Floods	384
+Landscape and Nature - State and National Parks	371
+Landscape and Nature - Aerials	311
+Landscape and Nature - Water - Creeks	254
+Landscape and Nature - Water - Rivers	199
+Landscape and Nature - Weather and Climate	181
+Landscape and Nature - Water - Gulf of Mexico	124
+Landscape and Nature - Water - Lakes	121
+Landscape and Nature - Wildlife	42
+Landscape and Nature - Water	32
+Landscape and Nature - Mountains	30
+Landscape and Nature - Plants	25
+Landscape and Nature - Natural Disasters - Storms	19
+Landscape and Nature - Natural Disasters - Fires	17
+Landscape and Nature	16
+Landscape and Nature - Water - Oceans and Seas	16
+Landscape and Nature - Natural Disasters - Tornadoes	9
+Landscape and Nature - Beaches	7
+Landscape and Nature - Forests	7
+Landscape and Nature - Natural Disasters - Hurricanes	7
+Landscape and Nature - Fossils	5
+Landscape and Nature - Archaeology	4
+Landscape and Nature - Deserts	4
+Landscape and Nature - Water - Ponds	4
+Landscape and Nature - Water - Bayous	3
+Landscape and Nature - Water - Canals	3
+Landscape and Nature - Canyons	2
+Landscape and Nature - Natural Disasters - Earthquakes	2
+Landscape and Nature - Natural Disasters	1
+Landscape and Nature - Natural Disasters - Dust Storms	1

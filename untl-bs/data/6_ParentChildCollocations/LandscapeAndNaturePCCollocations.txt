@@ -1,0 +1,26 @@
+Term	CollocationCount
+Landscape and Nature	3524
+Landscape and Nature - Water - Rivers	48
+Landscape and Nature - Mountains	47
+Landscape and Nature - Water - Lakes	43
+Landscape and Nature - Plants	41
+Landscape and Nature - Weather and Climate	38
+Landscape and Nature - Water	37
+Landscape and Nature - Natural Disasters - Fires	32
+Landscape and Nature - Aerials	28
+Landscape and Nature - State and National Parks	25
+Landscape and Nature - Forests	23
+Landscape and Nature - Archaeology	22
+Landscape and Nature - Water - Creeks	21
+Landscape and Nature - Water - Ponds	20
+Landscape and Nature - Wildlife	20
+Landscape and Nature - Geography and Maps	16
+Landscape and Nature - Water - Oceans and Seas	16
+Landscape and Nature - Deserts	9
+Landscape and Nature - Fossils	8
+Landscape and Nature - Natural Disasters - Storms	7
+Landscape and Nature - Natural Disasters - Tornadoes	7
+Landscape and Nature - Natural Disasters - Floods	5
+Landscape and Nature - Beaches	1
+Landscape and Nature - Water - Bayous	1
+Landscape and Nature - Water - Canals	1

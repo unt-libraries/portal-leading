@@ -1,3 +1,0 @@
-Term	CollocationCount
-Immigration	856
-Immigration - Colonies	1

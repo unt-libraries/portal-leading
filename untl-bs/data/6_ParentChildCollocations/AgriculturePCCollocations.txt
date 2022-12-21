@@ -1,0 +1,36 @@
+Term	CollocationCount
+Agriculture	2623
+Agriculture - Farm Equipment	74
+Agriculture - Farming	36
+Agriculture - Farming - Cotton	23
+Agriculture - Domestic Animals - Cattle	20
+Agriculture - Domestic Animals - Horses	17
+Agriculture - Domestic Animals - Poultry	15
+Agriculture - Farm Equipment - Plows	15
+Agriculture - Domestic Animals	13
+Agriculture - Farming - Corn	10
+Agriculture - Processing and Storage	9
+Agriculture - Farming - Hay	7
+Agriculture - Farming - Wheat	6
+Agriculture - Processing and Storage - Cotton Gins	5
+Agriculture - Ranching - Ranches	5
+Agriculture - Domestic Animals - Mules	4
+Agriculture - Farm Equipment - Irrigation	4
+Agriculture - Ranching	4
+Agriculture - Ranching - Cowboys	4
+Agriculture - Domestic Animals - Swine	3
+Agriculture - Farming - Dairy	3
+Agriculture - Processing and Storage - Meat Packing	3
+Agriculture - Domestic Animals - Sheep	2
+Agriculture - Farm Equipment - Tractors	2
+Agriculture - Farming - Potatoes	2
+Agriculture - Farming - Vegetables	2
+Agriculture - Domestic Animals - Donkeys	1
+Agriculture - Farm Equipment - Threshers	1
+Agriculture - Farming - Citrus and Fruit	1
+Agriculture - Farming - Peanuts	1
+Agriculture - Farming - Rice	1
+Agriculture - Farming - Soybeans	1
+Agriculture - Farming - Sugarcane	1
+Agriculture - Processing and Storage - Grain Elevators	1
+Agriculture - Ranching - Cattle Trails	1

@@ -1,0 +1,16 @@
+Term	CollocationCount
+Architecture	7856
+Architecture - Buildings	2103
+Architecture - Civil Works - Streets and Roads	689
+Architecture - Landmarks - Historic Markers	213
+Architecture - Construction	112
+Architecture - Monuments	112
+Architecture - Museums	103
+Architecture - Libraries	65
+Architecture - Civil Works - Bridges	33
+Architecture - Landmarks	12
+Architecture - Civil Works	5
+Architecture - Landmarks - Alamo	3
+Architecture - Civil Works - Locks and Dams	1
+Architecture - Civil Works - Locks and Dams - Dams	1
+Architecture - Landmarks - Texas State Capitol	1

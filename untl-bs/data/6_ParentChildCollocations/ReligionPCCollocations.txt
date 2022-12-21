@@ -1,0 +1,20 @@
+Term	CollocationCount
+Religion	5922
+Religion - Churches	29
+Religion - Denominations - Catholic	21
+Religion - Churches - Clergy	19
+Religion - Churches - Congregations	15
+Religion - Denominations - Baptist	8
+Religion - Churches - Records - Baptisms	7
+Religion - Denominations - Methodist	6
+Religion - Denominations - Presbyterian	4
+Religion - Denominations - Jewish	3
+Religion - Chapels	2
+Religion - Denominations - Episcopal	2
+Religion - Temples	2
+Religion - Denominations	1
+Religion - Denominations - Islam	1
+Religion - Denominations - Lutheran	1
+Religion - Denominations - Methodist Episcopal	1
+Religion - Missions - Concepcion	1
+Religion - Missions - San Jose	1

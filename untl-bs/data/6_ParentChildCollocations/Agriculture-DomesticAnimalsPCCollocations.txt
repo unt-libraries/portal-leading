@@ -1,0 +1,31 @@
+Term	CollocationCount
+Agriculture - Domestic Animals	6000
+Agriculture - Farming	45
+Agriculture - Ranching	20
+Agriculture - Ranching - Cowboys	18
+Agriculture - Domestic Animals - Cattle	17
+Agriculture - Ranching - Ranches	16
+Agriculture	13
+Agriculture - Domestic Animals - Horses	13
+Agriculture - Domestic Animals - Poultry	12
+Agriculture - Farm Equipment	12
+Agriculture - Farm Equipment - Plows	12
+Agriculture - Farming - Cotton	9
+Agriculture - Farming - Corn	8
+Agriculture - Stock Tanks	7
+Agriculture - Domestic Animals - Swine	6
+Agriculture - Farming - Vegetables	4
+Agriculture - Processing and Storage	4
+Agriculture - Domestic Animals - Donkeys	3
+Agriculture - Domestic Animals - Horses - Tack	2
+Agriculture - Domestic Animals - Mules	2
+Agriculture - Domestic Animals - Sheep	2
+Agriculture - Farming - Citrus and Fruit	2
+Agriculture - Farming - Dairy	2
+Agriculture - Farming - Hay	2
+Agriculture - Domestic Animals - Goats	1
+Agriculture - Farm Equipment - Scythes	1
+Agriculture - Farm Equipment - Tractors	1
+Agriculture - Farming - Beets	1
+Agriculture - Farming - Wheat	1
+Agriculture - Ranching - Barbed Wire	1

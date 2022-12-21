@@ -1,0 +1,75 @@
+Term	CollocationCount
+"Business, Economics and Finance - Communications - Newspapers"	859286
+"Business, Economics and Finance - Advertising"	847765
+"Business, Economics and Finance - Journalism"	846147
+"Business, Economics and Finance - Communications - Media"	1984
+"Business, Economics and Finance - Oil and Gas - Refineries"	1326
+"Business, Economics and Finance - Oil and Gas - Companies - Humble Oil"	1105
+"Business, Economics and Finance - Finance"	556
+"Business, Economics and Finance - Medicine"	478
+"Business, Economics and Finance - Oil and Gas - Companies"	235
+"Business, Economics and Finance - Medicine - Hospitals"	128
+"Business, Economics and Finance - Service Industries - Photography"	125
+"Business, Economics and Finance - Mining"	99
+"Business, Economics and Finance - Transportation - Automobiles"	88
+"Business, Economics and Finance - Transportation - Aviation - Airplanes"	87
+"Business, Economics and Finance - Medicine - Doctors"	71
+"Business, Economics and Finance"	69
+"Business, Economics and Finance - Oil and Gas"	47
+"Business, Economics and Finance - Restaurants"	46
+"Business, Economics and Finance - Finance - Banks"	43
+"Business, Economics and Finance - Tourism"	42
+"Business, Economics and Finance - Hotels"	36
+"Business, Economics and Finance - Communications - Telephones"	34
+"Business, Economics and Finance - Stores - Clothing Stores"	33
+"Business, Economics and Finance - Transportation - Accidents"	32
+"Business, Economics and Finance - Stores"	26
+"Business, Economics and Finance - Transportation - Aviation"	25
+"Business, Economics and Finance - Saloons, Bars, Taverns"	24
+"Business, Economics and Finance - Transportation - Railroads"	24
+"Business, Economics and Finance - Transportation"	22
+"Business, Economics and Finance - Service Industries"	21
+"Business, Economics and Finance - Stores - Department Stores"	20
+"Business, Economics and Finance - Transportation - Motorcycles"	19
+"Business, Economics and Finance - Insurance"	18
+"Business, Economics and Finance - Transportation - Buses"	16
+"Business, Economics and Finance - Real Estate"	15
+"Business, Economics and Finance - Stores - Jewelry Stores"	14
+"Business, Economics and Finance - Transportation - Aviation - Helicopters"	12
+"Business, Economics and Finance - Medicine - Red Cross"	11
+"Business, Economics and Finance - Transportation - Railroads - Trains"	11
+"Business, Economics and Finance - Transportation - Boats"	10
+"Business, Economics and Finance - Transportation - Trucks"	10
+"Business, Economics and Finance - Oil and Gas - Oil Wells"	9
+"Business, Economics and Finance - Service Industries - Printing"	9
+"Business, Economics and Finance - Factories"	8
+"Business, Economics and Finance - Medicine - Nurses"	8
+"Business, Economics and Finance - Electricity - Power Plants"	7
+"Business, Economics and Finance - Oil and Gas - Oil Fields"	7
+"Business, Economics and Finance - Transportation - Ships"	7
+"Business, Economics and Finance - Stores - Grocery Stores"	6
+"Business, Economics and Finance - Communications"	5
+"Business, Economics and Finance - Electricity - Companies"	5
+"Business, Economics and Finance - Transportation - Horse-Drawn Vehicles"	5
+"Business, Economics and Finance - Oil and Gas - Stations"	4
+"Business, Economics and Finance - Service Industries - Funeral Homes"	4
+"Business, Economics and Finance - Theatres"	4
+"Business, Economics and Finance - Transportation - Trucks - Commercial"	4
+"Business, Economics and Finance - Medicine - Nursing Homes"	3
+"Business, Economics and Finance - Motels"	3
+"Business, Economics and Finance - Oil and Gas - Companies - Shell Oil"	3
+"Business, Economics and Finance - Oil and Gas - Oil Fields - Spindletop"	3
+"Business, Economics and Finance - Stores - General Stores"	3
+"Business, Economics and Finance - Electricity"	2
+"Business, Economics and Finance - Medicine - Dentists"	2
+"Business, Economics and Finance - Oil and Gas - Companies - Gulf Oil"	2
+"Business, Economics and Finance - Shipping"	2
+"Business, Economics and Finance - Transportation - Trolleys"	2
+"Business, Economics and Finance - Commercial Fishing"	1
+"Business, Economics and Finance - Factories - Foundries"	1
+"Business, Economics and Finance - Oil and Gas - Companies - Texas Company (Texaco)"	1
+"Business, Economics and Finance - Service Industries - Barbers"	1
+"Business, Economics and Finance - Stores - Bakeries"	1
+"Business, Economics and Finance - Stores - Hardware Stores"	1
+"Business, Economics and Finance - Stores - Meat Markets"	1
+"Business, Economics and Finance - Transportation - Railroads - Depots"	1
