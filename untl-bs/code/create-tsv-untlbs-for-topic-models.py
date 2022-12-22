@@ -65,14 +65,23 @@ for term in untl_bs:
     print(f'Writing: {term} to {filename}')
     with open(filename, 'w') as writer:
 
+        
         for f in get_solr_results_cursor("&".join(request_url), unique_field_name='aubrey_identifier', num_rows_in_one_shot=1000):
+            subjects = []
             aubrey_identifier = f[0]['aubrey_identifier']
             display_title = f[0]['display_title']
             if f[0].get('dc_description'):
                 dc_description = f[0].get('dc_description')[0]
             else:
                 dc_description = ''
-            dc_subject = '\t'.join(f[0].get('dc_subject.KWD_facet', ''))
+            print(f[0])
+            subjects.extend(f[0].get('dc_subject.KWD_facet', []))
+            subjects.extend(f[0].get('dc_subject.LCSH_facet', []))
+            subjects.extend(f[0].get('dc_subject.named_person_facet', []))
+            subjects.extend(f[0].get('dc_subject.named_animal_facet', []))
+
+
+            dc_subject = '\t'.join(subjects)
             
             output = '\t'.join([aubrey_identifier, display_title, dc_description, dc_subject, '\n'])
             writer.write(output)
