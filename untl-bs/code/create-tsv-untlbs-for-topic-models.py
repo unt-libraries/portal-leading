@@ -63,7 +63,7 @@ for term in untl_bs:
     response = urllib.request.urlopen("&".join(request_url)).read()
 
     print(f'Writing: {term} to {filename}')
-    with open(filename, 'w') as writer:
+    with open(filename, 'w', encoding='utf-8') as writer:
         
         
         for f in get_solr_results_cursor("&".join(request_url), unique_field_name='aubrey_identifier', num_rows_in_one_shot=1000):
