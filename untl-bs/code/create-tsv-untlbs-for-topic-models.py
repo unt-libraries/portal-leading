@@ -64,7 +64,7 @@ for term in untl_bs:
 
     print(f'Writing: {term} to {filename}')
     with open(filename, 'w') as writer:
-
+        
         
         for f in get_solr_results_cursor("&".join(request_url), unique_field_name='aubrey_identifier', num_rows_in_one_shot=1000):
             subjects = []
