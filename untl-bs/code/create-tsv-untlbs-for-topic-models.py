@@ -55,7 +55,7 @@ for term in untl_bs:
         'fq=(aubrey_system:PTH+OR+untl_institution:UNTA)+AND+dc_rights_access:public',
         f'fq=dc_subject.UNTL-BS_facet:"{term_plus}"',
         "wt=json",
-        "fl=aubrey_identifier,display_title,dc_description,dc_subject.KWD_facet",
+        "fl=aubrey_identifier,display_title,dc_description,dc_subject.KWD_facet,dc_subject.LCSH_facet,dc_subject.named_person_facet,dc_subject.named_animal_facet",
         ]
 
 
