@@ -74,7 +74,6 @@ for term in untl_bs:
                 dc_description = f[0].get('dc_description')[0]
             else:
                 dc_description = ''
-            print(f[0])
             subjects.extend(f[0].get('dc_subject.KWD_facet', []))
             subjects.extend(f[0].get('dc_subject.LCSH_facet', []))
             subjects.extend(f[0].get('dc_subject.named_person_facet', []))
