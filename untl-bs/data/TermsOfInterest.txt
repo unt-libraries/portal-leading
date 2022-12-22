@@ -1,8 +1,9 @@
 Agriculture - Domestic Animals
+Agriculture - Domestic Animals - Cattle
+Agriculture - Domestic Animals - Horses
 Architecture - Buildings
 Arts and Crafts - Music
 Arts and Crafts - Theatre
-Business, Economics and Finance
 Business, Economics and Finance - Advertising
 Business, Economics and Finance - Communications - Media
 Business, Economics and Finance - Communications - Newspapers
@@ -14,9 +15,8 @@ Government and Law - Texas Laws and Regulations
 Landscape and Nature - Geography and Maps
 Military and War - Personnel
 People - Ethnic Groups - African Americans
-People - Individuals
-Places - United States - Texas - Harris County
 Science and Technology
 Social Life and Customs
 Social Life and Customs - Clubs and Organizations
 Social Life and Customs - Correspondence
+Sports and Recreation - Football
