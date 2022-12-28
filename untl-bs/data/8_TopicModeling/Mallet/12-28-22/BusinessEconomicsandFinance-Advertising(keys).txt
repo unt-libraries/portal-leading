@@ -1,0 +1,5 @@
+0	1	tex newspapers texas news state includes newspaper advertising vol local county abilene denton weekly student national university brownwood college fort 
+1	1	tex newspapers news state national texas local county newspaper includes advertising vol weekly thursday extensive daily paso austin bastrop temple 
+2	1	tex newspapers news texas county national local vol includes newspaper advertising state daily san antonio weekly thursday brenham friday springs 
+3	1	tex newspapers daily texas national news local newspaper includes advertising county vol state galveston extensive dallas orange brownsville cuero herald 
+4	1	tex newspapers county advertising news texas vol newspaper includes national local state weekly houston baytown thursday harris friday denison sun 

@@ -1,0 +1,5 @@
+0	1	tex newspapers news texas daily national newspaper local advertising includes vol county state galveston extensive paso dallas weekly brenham city 
+1	1	tex newspapers daily national news local includes state newspaper advertising vol county texas baytown extensive thursday brownsville cuero weekly worth 
+2	1	tex newspapers county texas advertising includes newspaper news vol local national state san antonio weekly thursday orange brownwood daily friday 
+3	1	tex newspapers texas news state newspaper includes advertising vol county local weekly abilene houston national student university college friday thursday 
+4	1	tex newspapers texas news state county includes newspaper advertising vol local national weekly denton daily thursday austin friday springs sulphur 
