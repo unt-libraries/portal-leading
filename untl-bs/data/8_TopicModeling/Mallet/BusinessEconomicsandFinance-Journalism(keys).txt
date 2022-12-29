@@ -1,5 +1,0 @@
-0	1	tex newspapers news county national local newspaper includes advertising vol state texas daily extensive paso weekly thursday brenham city friday 
-1	1	tex newspapers texas county news includes newspaper vol advertising national local state san antonio baytown weekly thursday daily sun friday 
-2	1	tex newspapers news texas county state weekly newspaper advertising vol includes local national galveston thursday friday dallas west albany coleman 
-3	1	tex newspapers daily news national local includes advertising newspaper state vol texas county extensive austin thursday orange brownsville weekly fort 
-4	1	tex newspapers texas state news advertising includes newspaper vol local daily county national abilene denton houston student university brownwood cuero 
